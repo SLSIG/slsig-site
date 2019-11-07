@@ -514,3 +514,15 @@ if (searchButton) {
 	  	if (classList.length > 1) removeClass(el, classList.slice(1).join(' '));
 	}
 })();
+
+// Current Copyright - by Joshua Spann for the SLSIG
+({
+//TODO
+let copyrightContainer = document.querySelectorAll('.copyright')
+for (let i=0; i< copyrightContainer.length; i++) {
+	let element = copyrightContainer[i]
+	element.innerHTML = 'TEST!'
+	console.log(element)
+}
+alert('hi')
+})();
