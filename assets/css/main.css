@@ -1026,6 +1026,10 @@ textarea {
       margin: 0;
       padding: 0;
       text-align: center; }
+.navbar_mobile_sidebar .navbar__menu a {
+  font-size: 2rem;
+  margin: 0 auto;
+}
       .navbar_mobile_overlay .navbar__menu li a,
       .navbar_mobile_overlay .navbar__menu li span {
         color:#222;color var(--color-main);
