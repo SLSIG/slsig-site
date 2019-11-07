@@ -1,5 +1,6 @@
 :root {
 	--color-main: #17181e;
+	--color-accent: #ed3;
 }
 @charset "UTF-8";
 article,
@@ -1195,6 +1196,7 @@ textarea {
       .hero__content a:focus {
         outline: none; }
   .hero__image {
+    filter: blur(0.2rem);
     height: 100%;
     margin: 0;
     position: absolute;
@@ -1338,6 +1340,9 @@ textarea {
   margin-top: calc(2.55rem + 1.5vw); }
   .post__entry > :nth-child(1) {
     margin-top: 0; }
+.post__entry a:hover {
+  background: var(--color-accent);
+}
 
 .post__avatar-thumbs {
   border-radius: 50%;
