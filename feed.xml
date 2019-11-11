@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2019-11-11T10:39:13-06:00</updated>
+    <updated>2019-11-11T10:50:03-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -214,35 +214,22 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2019-11-07T10:49:42-06:00</updated>
+        <updated>2019-11-11T10:49:47-06:00</updated>
             <summary>
                 <![CDATA[
-                    Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Review and approve Meeting MinutesReview open offices. Vote for candidatesIV trainer&hellip;
+                    <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
+<h2 id="mcetoc_1dp38hp5k0">Upcoming Events</h2>
+<div style="color: red;">Due to the inclement weather our SLSIG meeting today (Nov 11, 2019) is cancelled. <br> The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
 <h2 id="mcetoc_1dp38hp5k0">Upcoming Events</h2>
-<h4 id="mcetoc_1dp38trc93">November Meeting<br>Nov 11, 2019: 1:30pm - 3:30pm<br>St. Luke's Meeting Room<br>(East Medical Office Building Lower Level room 80)</h4>
-<p><img class="post__image--center" src="https://slsig.github.io/media/posts/1/autumn.png" alt="Autumn Basket" width="537" height="301"></p>
-<ul>
-<li>Review and approve Meeting Minutes</li>
-<li>Review open offices. Vote for candidates</li>
-<li>IV trainer demonstration</li>
-<li>Website updates</li>
-<li>Peter Weinstock ted talk</li>
-</ul>
-<ul>
-<li>2020 Goals:  </li>
-</ul>
-<ol>
-<li>Creating the New Website</li>
-<li>Sharing simulation and how it is integrated into curriculum</li>
-<li>Formalize monthly practice sharing</li>
-<li>Do we need office job descriptions?</li>
-<li>Do we need a mission?</li>
-</ol>
+<div style="color: red;">Due to the inclement weather our SLSIG meeting today (Nov 11, 2019) is cancelled. <br> The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
+
+<h4 id="mcetoc_1dp38trc93"> </h4>
             ]]>
         </content>
     </entry>
