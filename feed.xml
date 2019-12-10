@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2019-12-10T08:31:18-06:00</updated>
+    <updated>2019-12-10T11:22:35-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://slsig.github.io/meetings.html"/>
         <id>https://slsig.github.io/meetings.html</id>
 
-        <updated>2019-12-10T08:31:01-06:00</updated>
+        <updated>2019-12-10T11:05:36-06:00</updated>
             <summary>
                 <![CDATA[
-                    2020 Feb. 20, 2020: Upcoming 2019 Nov. 11, 2019: Cancelled
+                    2020 Feb. 20, 2020: Upcoming, 1:30pm - 3:30pm 2019 Nov. 11, 2019: Cancelled due to inclement weather
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>2020</strong><br>Feb. 20, 2020: Upcoming</p>
-<p><strong>2019</strong><br>Nov. 11, 2019: Cancelled</p>
+                <p><strong>2020</strong><br>Feb. 20, 2020: Upcoming, 1:30pm - 3:30pm</p>
+<p><strong>2019</strong><br>Nov. 11, 2019: Cancelled due to inclement weather</p>
             ]]>
         </content>
     </entry>
@@ -38,17 +38,19 @@
         <link href="https://slsig.github.io/recent-events.html"/>
         <id>https://slsig.github.io/recent-events.html</id>
 
-        <updated>2019-11-07T13:21:14-06:00</updated>
+        <updated>2019-12-10T11:20:26-06:00</updated>
             <summary>
                 <![CDATA[
-                    Featured Organization - Mercy Washington, Washington, MO Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations. The realistic design of simulation enables the learner to transfer what&hellip;
+                    Featured OrganizationMercy Washington, Washington, MO Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations.The realistic design of simulation enables the learner to transfer what they have learned&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div dir="ltr">
-<p><span style="color: #0000ff; font-size: large;"><strong>Featured Organization - Mercy Washington, Washington, MO<br><img class="post__image" src="https://slsig.github.io/media/posts/5/washmo.jpg@attredirects=0" alt="" width="949" height="533"><br></strong></span></p>
-<p> Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations. The realistic design of simulation enables the learner to transfer what they have learned in the simulated setting to the clinical setting in comparison to other methods of education, for example online course modules or didactic lecture (Merchant, 2012). Scenario-based simulation is often only provided in larger hospital facilities or academic settings. However, this type of learning is invaluable for the smaller community or rural hospitals as well.</p>
+<h2 id="mcetoc_1drocs21t0">Featured Organization</h2>
+<h4 id="mcetoc_1drocs4od1">Mercy Washington, Washington, MO</h4>
+<img class="post__image--center" src="https://slsig.github.io/media/posts/5/washmo.jpg" alt="Featured Organization - Mercy Washington, Washington, MO" width="949" height="533"><br>
+<p> Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations.The realistic design of simulation enables the learner to transfer what they have learned in the simulated setting to the clinical setting in comparison to other methods of education, for example online course modules or didactic lecture (Merchant, 2012). Scenario-based simulation is often only provided in larger hospital facilities or academic settings. However, this type of learning is invaluable for the smaller community or rural hospitals as well.</p>
 <p> Mercy Hospital Washington is an acute care hospital offering comprehensive critical care, medical, surgical, obstetric, and pediatric services. Mercy Hospital Washington began utilizing scenario-based simulation for multidisciplinary training and education several years ago. More recently, the hospital developed a complete simulation training lab, which although small, effectively simulates a patient room and provide realistic training for its co-workers. The training includes scenarios such as detecting a patient experiencing a stroke, taking the patient to CT, using the hospital’s Telestroke technology cart, and actually delivering TPA to the patient. Facilitators also run the simulation manikin remotely, to avoid interfering with co-workers participating in the scenario. The simulation lab is used extensively in Mercy Hospital Washington’s Nursing Fellowship and PCA Fellowship programs.</p>
 <p> Mercy’s use of simulation is not restricted to its simulation lab. The hospital also provides scenario-based education through the use of mock codes. It is also expanding its out-of-the-lab training to include simulated experiences in the labor and delivery department and training of the hospital’s rapid response team.</p>
 <p> Simulation should not be restricted to large facilities or academic settings, but should be available in all clinical settings large and small. A quote from the aviation industry is a fantastic example of why simulation is so valuable:</p>
@@ -235,24 +237,40 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2019-12-09T16:05:30-06:00</updated>
+        <updated>2019-12-10T11:04:05-06:00</updated>
             <summary>
                 <![CDATA[
-                    <center><img class="post__image" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></center>
-<p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
-<h2 id="mcetoc_1dp38hp5k0">Upcoming Events</h2>
-<div style="color: red;">The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
-
+                    Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <center><img class="post__image" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></center>
 <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
-<h2 id="mcetoc_1dp38hp5k0">Upcoming Events</h2>
-<div style="color: red;">The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
+<h2 id="mcetoc_1dp38hp5k0">Announcements</h2>
+<p>Visit our <a href="https://slsig.github.io/meetings.html">Meetings &amp; Events page</a> to keep track of upcoming, current, and past events!<br><br></p>
+<div>The leadership group will meet in January to identify 2020 meeting dates. </div>
+<div>We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
+<h2 id="mcetoc_1droc5knv1">Contact Us!</h2>
+<p>You can sign up for our newsletter to get the latest and greatest news around!<br>Please fill out and submit the form below to have us add you to the list!</p>
+<form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"> <label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <button id="newSubSumbitButton">Submit</button></form>
+<script>// <![CDATA[
+let newsletterForm = document.querySelector('#newsletterForm')
+	let newsletterButton = document.querySelector('#newSubSumbitButton')
+	let newSubTitle = document.querySelector('#newSubTitle')
+	let newSubMsg = document.querySelector('#newSubMsg')
 
-<h4 id="mcetoc_1dp38trc93"> </h4>
+	newsletterButton.onclick = () => {
+	}
+	newsletterForm.onsubmit = ()=> {
+		let name = document.querySelector('#nameField').value
+		let email = document.querySelector('#emailField').value
+		let org = document.querySelector('#orgField').value
+		newSubTitle.value = `Website Newsletter Request from ${name} (${email})`
+		newSubMsg.value = `${name} from their organization ${org} would like to be emailed newsletter updates at their ${email} email address.`
+		alert('Thanks for reaching out! We\'ll get back to you soon!')
+	}
+// ]]></script>
             ]]>
         </content>
     </entry>
