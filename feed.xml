@@ -3,12 +3,33 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2019-11-11T10:50:03-06:00</updated>
+    <updated>2019-12-10T08:31:18-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
     <id>https://slsig.github.io</id>
 
+    <entry>
+        <title>Meetings &amp; Events</title>
+        <author>
+            <name>St. Louis Simulation Interest Group</name>
+        </author>
+        <link href="https://slsig.github.io/meetings.html"/>
+        <id>https://slsig.github.io/meetings.html</id>
+
+        <updated>2019-12-10T08:31:01-06:00</updated>
+            <summary>
+                <![CDATA[
+                    2020 Feb. 20, 2020: Upcoming 2019 Nov. 11, 2019: Cancelled
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>2020</strong><br>Feb. 20, 2020: Upcoming</p>
+<p><strong>2019</strong><br>Nov. 11, 2019: Cancelled</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Featured</title>
         <author>
@@ -214,20 +235,22 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2019-11-11T10:49:47-06:00</updated>
+        <updated>2019-12-09T16:05:30-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
+                    <center><img class="post__image" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></center>
+<p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
 <h2 id="mcetoc_1dp38hp5k0">Upcoming Events</h2>
-<div style="color: red;">Due to the inclement weather our SLSIG meeting today (Nov 11, 2019) is cancelled. <br> The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
+<div style="color: red;">The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
+                <center><img class="post__image" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></center>
+<p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
 <h2 id="mcetoc_1dp38hp5k0">Upcoming Events</h2>
-<div style="color: red;">Due to the inclement weather our SLSIG meeting today (Nov 11, 2019) is cancelled. <br> The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
+<div style="color: red;">The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>
 
 <h4 id="mcetoc_1dp38trc93"> </h4>
             ]]>

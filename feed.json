@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://slsig.github.io/meetings.html",
+            "url": "https://slsig.github.io/meetings.html",
+            "title": "Meetings &amp; Events",
+            "summary": "2020 Feb. 20, 2020: Upcoming 2019 Nov. 11, 2019: Cancelled",
+            "content_html": "<p><strong>2020</strong><br>Feb. 20, 2020: Upcoming</p>\n<p><strong>2019</strong><br>Nov. 11, 2019: Cancelled</p>",
+            "author": {
+                "name": "St. Louis Simulation Interest Group"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-09T16:10:05-06:00",
+            "date_modified": "2019-12-10T08:31:01-06:00"
+        },
+        {
             "id": "https://slsig.github.io/recent-events.html",
             "url": "https://slsig.github.io/recent-events.html",
             "title": "Featured",
@@ -69,15 +83,15 @@
             "id": "https://slsig.github.io/landing-page.html",
             "url": "https://slsig.github.io/landing-page.html",
             "title": "The St. Louis Simulation Interest Group",
-            "summary": "<p><span style=\"color: #000000;\"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>\n<h2 id=\"mcetoc_1dp38hp5k0\">Upcoming Events</h2>\n<div style=\"color: red;\">Due to the inclement weather our SLSIG meeting today (Nov 11, 2019) is cancelled. <br> The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>\n",
-            "content_html": "<p><span style=\"color: #000000;\"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>\n<h2 id=\"mcetoc_1dp38hp5k0\">Upcoming Events</h2>\n<div style=\"color: red;\">Due to the inclement weather our SLSIG meeting today (Nov 11, 2019) is cancelled. <br> The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>\n\n<h4 id=\"mcetoc_1dp38trc93\"> </h4>",
+            "summary": "<center><img class=\"post__image\" src=\"https://slsig.github.io/media/posts/1/favicon.png\" alt=\"\" width=\"200\" height=\"200\"></center>\n<p><span style=\"color: #000000;\"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>\n<h2 id=\"mcetoc_1dp38hp5k0\">Upcoming Events</h2>\n<div style=\"color: red;\">The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>\n",
+            "content_html": "<center><img class=\"post__image\" src=\"https://slsig.github.io/media/posts/1/favicon.png\" alt=\"\" width=\"200\" height=\"200\"></center>\n<p><span style=\"color: #000000;\"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>\n<h2 id=\"mcetoc_1dp38hp5k0\">Upcoming Events</h2>\n<div style=\"color: red;\">The leadership group will meet in January to identify 2020 meeting dates.  We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop. <br> We will send the 2020 meeting dates and next meeting agenda in early January.</div>\n\n<h4 id=\"mcetoc_1dp38trc93\"> </h4>",
             "author": {
                 "name": "St. Louis Simulation Interest Group"
             },
             "tags": [
             ],
             "date_published": "2019-11-07T09:52:44-06:00",
-            "date_modified": "2019-11-11T10:49:47-06:00"
+            "date_modified": "2019-12-09T16:05:30-06:00"
         }
     ]
 }
