@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2019-12-13T10:55:08-06:00</updated>
+    <updated>2020-01-14T15:18:36-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -251,15 +251,23 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2019-12-10T11:35:08-06:00</updated>
+        <updated>2020-01-14T15:05:30-06:00</updated>
             <summary>
                 <![CDATA[
-                    Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
+                    SLSIGCreated to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <center><img class="post__image" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></center>
+                <center>
+<div class="acronym heading-acronym">
+<div class="s">S</div>
+<div class="l">L</div>
+<div class="s2">S</div>
+<div class="i">I</div>
+<div class="g">G</div>
+</div>
+<img class="post__image image-top" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></center>
 <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
 <h2 id="mcetoc_1dp38hp5k0">Announcements</h2>
 <p>Visit our <a href="https://slsig.github.io/events.html">Meetings &amp; Events page</a> to keep track of upcoming, current, and past events!<br><br></p>
@@ -284,6 +292,12 @@ let newsletterForm = document.querySelector('#newsletterForm')
 		newSubMsg.value = `${name} from their organization ${org} would like to be emailed newsletter updates at their ${email} email address.`
 		alert('Thanks for reaching out! We\'ll get back to you soon!')
 	}
+
+let hero = document.querySelector('.hero')
+let slsig = document.createElement('img')
+slsig.src='slsig_text_backdrop.png'
+slsig.classList.add('/input/media/posts/1/favicon.png')//hero_slsig_backdrop')
+hero.appendChild(slsig)
 // ]]></script>
             ]]>
         </content>
