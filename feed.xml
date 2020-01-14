@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2020-01-14T15:18:36-06:00</updated>
+    <updated>2020-01-14T15:34:13-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -251,7 +251,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2020-01-14T15:05:30-06:00</updated>
+        <updated>2020-01-14T15:33:52-06:00</updated>
             <summary>
                 <![CDATA[
                     SLSIGCreated to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
@@ -292,12 +292,6 @@ let newsletterForm = document.querySelector('#newsletterForm')
 		newSubMsg.value = `${name} from their organization ${org} would like to be emailed newsletter updates at their ${email} email address.`
 		alert('Thanks for reaching out! We\'ll get back to you soon!')
 	}
-
-let hero = document.querySelector('.hero')
-let slsig = document.createElement('img')
-slsig.src='slsig_text_backdrop.png'
-slsig.classList.add('/input/media/posts/1/favicon.png')//hero_slsig_backdrop')
-hero.appendChild(slsig)
 // ]]></script>
             ]]>
         </content>
