@@ -3,12 +3,32 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2020-01-16T09:36:06-06:00</updated>
+    <updated>2020-01-21T15:54:51-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
     <id>https://slsig.github.io</id>
 
+    <entry>
+        <title>News</title>
+        <author>
+            <name>St. Louis Simulation Interest Group</name>
+        </author>
+        <link href="https://slsig.github.io/news.html"/>
+        <id>https://slsig.github.io/news.html</id>
+
+        <updated>2020-01-16T15:00:32-06:00</updated>
+            <summary>
+                <![CDATA[
+                    There is no recent news to display.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                There is no recent news to display.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Meetings &amp; Events</title>
         <author>
@@ -126,7 +146,7 @@
         <link href="https://slsig.github.io/resources.html"/>
         <id>https://slsig.github.io/resources.html</id>
 
-        <updated>2019-12-12T15:56:42-06:00</updated>
+        <updated>2020-01-21T15:28:41-06:00</updated>
             <summary>
                 <![CDATA[
                     Simulation Resources Free resources:Sim-one http://www.sim-one.ca/scenarioUniversity of South Dakota http://www.usd.edu/health-sciences/nursing/simulation-scenariosUniversity of Washington http://collaborate.uw.edu/tools-and-curricula/scenario-building-and-library.htmlMontgomery College https://cms.montgomerycollege.edu/nursingsims/#top2Kansas Board of Nursing http://www.ksbn.org/education/Scenario/SimulationScenarioLibrary.htmQSEN Institute http://qsen.org/teaching-strategies/strategy-search/advanced-search-results/?strat_type=Simulation%20Exercises Paid resources:http://www.mysimcenter.com/en-US/SimStoreHome.aspx
@@ -160,13 +180,13 @@
 <div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="https://harvardmedsim.org/" rel="nofollow">https://harvardmedsim.org</a></span></div>
 <div> </div>
 <div>
-<div>
 <div><strong>Simulation Technician Network:</strong></div>
 <div><a href="https://www.facebook.com/groups/1736010206721157/">https://www.facebook.com/groups/1736010206721157</a> -- A group that is a bridge between technology and faculty by providing a range of experiences with sim techs from all over the globe.</div>
 <div> </div>
+<div><strong>The Sim Tech:</strong></div>
+<div><a href="http://www.thesimtech.org/">http://www.thesimtech.org/</a> -- A diverse collection of free, libre, and proprietary simulation resources including scenarios, multimedia, and links to other resources.</div>
 </div>
-</div>
-<h2 id="mcetoc_1dp3adm1n1">Tools and Resources</h2>
+<h2 id="mcetoc_1dp3adm1n1">Tools</h2>
 <p> </p>
 <div><span style="font-family: verdana, sans-serif; font-size: medium;"><strong>DASH Tool:</strong> <a href="http://collaborate.uw.edu/sites/default/files/files/IMSH_2009_DASH.pdf" rel="nofollow">http://collaborate.uw.edu/sites/default/files/files/IMSH_2009_DASH.pdf</a></span></div>
 <div><span style="font-family: verdana, sans-serif; font-size: medium;">The Debriefing Assessment for Simulation in Healthcare is designed to assist in evaluating and developing debriefing skills.</span></div>
