@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2020-02-05T12:59:38-06:00</updated>
+    <updated>2020-02-05T13:07:05-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -37,7 +37,7 @@
         <link href="https://slsig.github.io/events.html"/>
         <id>https://slsig.github.io/events.html</id>
 
-        <updated>2020-02-05T12:59:05-06:00</updated>
+        <updated>2020-02-05T13:06:24-06:00</updated>
             <summary>
                 <![CDATA[
                     Upcoming Events2020 Th. Feb. 20, 2020: Upcoming, 1:30pm - 3:30pm at St. Lukes Fr. Apr. 3, 2020: Avkin Workshop, 9:00am - 3:00pm at SSM [Flyer] [Register Here] 2019 Nov. 11, 2019: Cancelled due to inclement weather Sep. 26, 2019: Life Cast, Review Candidates for Office, Website Updates, 2020 Goals&hellip;
@@ -46,7 +46,7 @@
         <content type="html">
             <![CDATA[
                 <h2 id="mcetoc_1dror11861">Upcoming Events</h2>
-<p><strong>2020</strong><br>Th. Feb. 20, 2020: Upcoming, 1:30pm - 3:30pm at <a href="https://www.google.com/search?client=firefox-b-1-d&amp;q=st+luke%27s+hospital&amp;npsic=0&amp;rflfq=1&amp;rlha=0&amp;rllag=38654501,-90506241,425&amp;tbm=lcl&amp;ved=2ahUKEwiF2crZibvnAhWqdN8KHYK5BrYQtgN6BAgHEAQ&amp;tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m5!1u15!2m2!15m1!1shas_1wheelchair_1accessible_1entrance!4e2!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&amp;rldoc=1#rlfi=hd:;si:8524534254056236815,l,ChJzdCBsdWtlJ3MgaG9zcGl0YWxIs-a_h-aAgIAIWjQKEnN0IGx1a2UncyBob3NwaXRhbBAAEAEQAhgAGAEYAiISc3QgbHVrZSdzIGhvc3BpdGFs;mv:[[38.762864,-90.30373589999999],[38.564771799999995,-90.7728443]]" target="_blank" rel="noopener noreferrer">St. Lukes</a><br>Fr. Apr. 3, 2020: <a href="https://pages.avkin.com/avkin-workshop-st_louis">Avkin Workshop</a>, 9:00am - 3:00pm at <a href="https://www.google.com/maps/place/1345+Smizer+Mill+Rd,+Fenton,+MO+63026/@38.5246717,-90.478359,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d04ce0d7e319:0xd1c4743f584d3890!8m2!3d38.5246717!4d-90.4761703">SSM</a> <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">[Flyer]</a> <a href="https://pages.avkin.com/avkin-workshop-st_louis#register-form">[Register Here]</a></p>
+<p><strong>2020</strong><br>Th. Feb. 20, 2020: Upcoming, 1:30pm - 3:30pm at <a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">St. Lukes</a><br>Fr. Apr. 3, 2020: <a href="https://pages.avkin.com/avkin-workshop-st_louis">Avkin Workshop</a>, 9:00am - 3:00pm at <a href="https://www.google.com/maps/place/1345+Smizer+Mill+Rd,+Fenton,+MO+63026/@38.5246717,-90.478359,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d04ce0d7e319:0xd1c4743f584d3890!8m2!3d38.5246717!4d-90.4761703">SSM</a> <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">[Flyer]</a> <a href="https://pages.avkin.com/avkin-workshop-st_louis#register-form">[Register Here]</a></p>
 Wednesday, May 20, 2020 1330-1530 Location TBD<br>Wednesday, September 9, 2020 1330-1530 Location TBD<br>Wednesday, October 28, 2020 1330-1530 Location TBD
 <h2 id="mcetoc_1dror0osn0">Previous Events</h2>
 <p><strong>2019</strong><br><a href="media/files/SLSIG Meeting Agenda 20191111.zip">Nov. 11, 2019</a>: Cancelled due to inclement weather<br><a href="media/files/SLSIG Meeting Sept 26 2019.zip">Sep. 26, 2019</a>: Life Cast, Review Candidates for Office, Website Updates, 2020 Goals<br><a href="media/files/SLSIG Agenad 7222019.zip">Jul. 22, 2019</a>: Simulation Week, Discuss Social Media Direction and Nov. Workshop<br><a href="media/files/SLSIG Agenad 4112019.zip">Apr. 11, 2019</a>: Electronic Surveys for Evaluations, Brainstorm Simulation Week Ideas<br><a href="media/files/SLSIG Meeting 20190225.zip">Feb. 25, 2019</a>: Plan 2019 Meetings, CHSE Review, E-Tech: Website<br><a href="media/files/SLSIG Meeting 20190204.zip">Feb. 4, 2019</a>: AVKIN, Review Leadership &amp; Communication, IMSH Topics</p>
@@ -267,7 +267,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2020-02-05T12:51:10-06:00</updated>
+        <updated>2020-02-05T13:06:57-06:00</updated>
             <summary>
                 <![CDATA[
                     SLSIGCreated to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
@@ -292,7 +292,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
 </div>
 <div>We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop.</div>
 <h3 id="mcetoc_1e0b9s79b1"><span style="text-decoration: underline;"><strong>Next Meeting: February 20, 2020, 1:30pm - 3:30pm<br></strong></span></h3>
-<p>St. Luke’s Meeting Room<br><span class="LrzXr"><a href="https://www.google.com/search?client=firefox-b-1-d&amp;q=st+luke%27s+hospital&amp;npsic=0&amp;rflfq=1&amp;rlha=0&amp;rllag=38654501,-90506241,425&amp;tbm=lcl&amp;ved=2ahUKEwiF2crZibvnAhWqdN8KHYK5BrYQtgN6BAgHEAQ&amp;tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m5!1u15!2m2!15m1!1shas_1wheelchair_1accessible_1entrance!4e2!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&amp;rldoc=1#rlfi=hd:;si:8524534254056236815,l,ChJzdCBsdWtlJ3MgaG9zcGl0YWxIs-a_h-aAgIAIWjQKEnN0IGx1a2UncyBob3NwaXRhbBAAEAEQAhgAGAEYAiISc3QgbHVrZSdzIGhvc3BpdGFs;mv:[[38.762864,-90.30373589999999],[38.564771799999995,-90.7728443]]" target="_blank" rel="noopener noreferrer">232 S Woods Mill Rd, Chesterfield, MO 63017</a></span><br>(East Medical Office Building Lower Level room 80)</p>
+<p>St. Luke’s Meeting Room<br><span class="LrzXr"><a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">232 S Woods Mill Rd, Chesterfield, MO 63017</a></span><br>(East Medical Office Building Lower Level room 80)</p>
 <p><strong>Agenda: <a href="media/files/SLSIG-agenda-20200220.zip" target="_blank" rel="noopener noreferrer">[Download a Copy]</a></strong></p>
 <ol>
 <li>Present new officers for vote and swear- in</li>
@@ -319,8 +319,8 @@ let newsletterForm = document.querySelector('#newsletterForm')
 <div> </div>
 <div>Please place the 2020 meeting dates on your calendars (dates are subject to change):</div>
 <ul>
-<li>Thursday, February 20, 2020 1330-1530 at <a href="https://www.google.com/search?client=firefox-b-1-d&amp;q=st+luke%27s+hospital&amp;npsic=0&amp;rflfq=1&amp;rlha=0&amp;rllag=38654501,-90506241,425&amp;tbm=lcl&amp;ved=2ahUKEwiF2crZibvnAhWqdN8KHYK5BrYQtgN6BAgHEAQ&amp;tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m5!1u15!2m2!15m1!1shas_1wheelchair_1accessible_1entrance!4e2!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&amp;rldoc=1#rlfi=hd:;si:8524534254056236815,l,ChJzdCBsdWtlJ3MgaG9zcGl0YWxIs-a_h-aAgIAIWjQKEnN0IGx1a2UncyBob3NwaXRhbBAAEAEQAhgAGAEYAiISc3QgbHVrZSdzIGhvc3BpdGFs;mv:[[38.762864,-90.30373589999999],[38.564771799999995,-90.7728443]]" target="_blank" rel="noopener noreferrer">St. Lukes</a></li>
-<li>Friday, April 3, 2020 0900-1330 Workshop at SSM onboarding site (see <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">flyer </a>to <a href="https://pages.avkin.com/avkin-workshop-st_louis#register-form" target="_blank" rel="noopener noreferrer">register</a>)</li>
+<li>Thursday, February 20, 2020 1330-1530 at <a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">St. Lukes</a></li>
+<li>Friday, April 3, 2020 0900-1330 Workshop at <a href="https://www.google.com/maps/place/1345+Smizer+Mill+Rd,+Fenton,+MO+63026/@38.5246717,-90.478359,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d04ce0d7e319:0xd1c4743f584d3890!8m2!3d38.5246717!4d-90.4761703" target="_blank" rel="noopener noreferrer">SSM onboarding site</a> (see <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">flyer </a>to <a href="https://pages.avkin.com/avkin-workshop-st_louis#register-form" target="_blank" rel="noopener noreferrer">register</a>)</li>
 <li>Wednesday, May 20, 2020 1330-1530 Location TBD</li>
 <li>Wednesday, September 9, 2020 1330-1530 Location TBD</li>
 <li>Wednesday, October 28, 2020 1330-1530 Location TBD</li>
