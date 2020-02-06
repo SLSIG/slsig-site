@@ -3,12 +3,78 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2020-02-05T13:07:05-06:00</updated>
+    <updated>2020-02-06T08:18:55-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
     <id>https://slsig.github.io</id>
 
+    <entry>
+        <title>Notes</title>
+        <author>
+            <name>St. Louis Simulation Interest Group</name>
+        </author>
+        <link href="https://slsig.github.io/notes.html"/>
+        <id>https://slsig.github.io/notes.html</id>
+
+        <updated>2020-02-06T08:18:39-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Landing PageThe landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting". The next meeting section&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 id="mcetoc_1e0dd95a51">Landing Page</h4>
+<p>The landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting".</p>
+<p>The next meeting section should have links to the address URL found in google maps until you hit Agenda. A link or button to download a zipfile of the agenda documents should be next to the title text. Extra documentation, like external links and flyers, must be included where referenced for ease of access. Every location or address should have a link to google maps.</p>
+<p>The next meeting section should be as follows:</p>
+<hr>
+<h3 id="mcetoc_1e0b9s79b1"><span style="text-decoration: underline;"><strong>Next Meeting: February 20, 2020, 1:30pm - 3:30pm<br></strong></span></h3>
+<p>St. Luke’s Meeting Room<br><span class="LrzXr"><a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">232 S Woods Mill Rd, Chesterfield, MO 63017</a></span><br>(East Medical Office Building Lower Level room 80)</p>
+<p><strong>Agenda: <a href="media/files/SLSIG-agenda-20200220.zip" target="_blank" rel="noopener noreferrer">[Download a Copy]</a></strong></p>
+<ol>
+<li>Present new officers for vote and swear- in</li>
+<li>Brainstorm mission/vision statement</li>
+<li>Brainstorm officer duties</li>
+<li>Identify a group of people willing to wordsmith the two items above and present at May meeting</li>
+<li>Sharing session: Those who attended IMSH to share new innovations and teaching strategies.
+<ol style="list-style-type: lower-alpha;">
+<li>Margie: Virtual Reality</li>
+<li>Beth Hankamer: Escape Room</li>
+<li>Kathy Roseland: Distractions in Simulation</li>
+<li>Sarah Weyhrich:</li>
+</ol>
+</li>
+<li>Share details for <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">workshop in April 2020</a>.</li>
+<li>Identify hosts for the 2020 meetings.</li>
+<li>Web site info</li>
+</ol>
+<div>
+<div> </div>
+<div>So much has happened over the last few months!<br>We will present the officer candidates for vote at our next meeting.<br>Several members brought back some cool new simulation information from  IMSH.<br><br>Most importantly, we have secured a Free workshop for our April 3, 2020 meeting:
+<div> <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">"How to Start an Affordable University Course to Include Simulated Participants"</a>!</div>
+</div>
+<div> </div>
+<div>Please place the 2020 meeting dates on your calendars (dates are subject to change):</div>
+<ul>
+<li>Thursday, February 20, 2020 1330-1530 at <a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">St. Lukes</a></li>
+<li>Friday, April 3, 2020 0900-1330 Workshop at <a href="https://www.google.com/maps/place/1345+Smizer+Mill+Rd,+Fenton,+MO+63026/@38.5246717,-90.478359,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d04ce0d7e319:0xd1c4743f584d3890!8m2!3d38.5246717!4d-90.4761703" target="_blank" rel="noopener noreferrer">SSM onboarding site</a> (see <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">flyer </a>to <a href="https://pages.avkin.com/avkin-workshop-st_louis#register-form" target="_blank" rel="noopener noreferrer">register</a>)</li>
+<li>Wednesday, May 20, 2020 1330-1530 Location TBD</li>
+<li>Wednesday, September 9, 2020 1330-1530 Location TBD</li>
+<li>Wednesday, October 28, 2020 1330-1530 Location TBD</li>
+</ul>
+</div>
+<hr>
+<h4 id="mcetoc_1e0dcv8fi0">Agendas</h4>
+<p>There are 2 types of zipfiles to make for agendas: pre and post meeting.</p>
+<ul>
+<li>Premeeting contains all the paperwork sent out in the actual email itself.</li>
+<li>Postmeeting one is to contain all the paperwork sent in the email, minus the last meeting summary and replacing it with the actual current meeting's summary. You also add any and all supplamental files from the meeting</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>News</title>
         <author>
