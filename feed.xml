@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2020-02-06T08:18:55-06:00</updated>
+    <updated>2020-02-17T11:32:33-06:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://slsig.github.io/notes.html"/>
         <id>https://slsig.github.io/notes.html</id>
 
-        <updated>2020-02-06T08:18:39-06:00</updated>
+        <updated>2020-02-06T09:50:21-06:00</updated>
             <summary>
                 <![CDATA[
                     Landing PageThe landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting". The next meeting section&hellip;
@@ -333,7 +333,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2020-02-05T13:06:57-06:00</updated>
+        <updated>2020-02-17T11:32:22-06:00</updated>
             <summary>
                 <![CDATA[
                     SLSIGCreated to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
@@ -358,7 +358,10 @@ let newsletterForm = document.querySelector('#newsletterForm')
 </div>
 <div>We will continue to follow past year's pattern of meeting in February after the IMSH then again April 3, 2020 for the workshop.</div>
 <h3 id="mcetoc_1e0b9s79b1"><span style="text-decoration: underline;"><strong>Next Meeting: February 20, 2020, 1:30pm - 3:30pm<br></strong></span></h3>
-<p>St. Luke’s Meeting Room<br><span class="LrzXr"><a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">232 S Woods Mill Rd, Chesterfield, MO 63017</a></span><br>(East Medical Office Building Lower Level room 80)</p>
+<p>This is a reminder about  the SLSIG meeting to be held on Thursday 2/20 at 1:30pm. We have had a change in venue. The meeting will be held at the Missouri Baptist University School of Nursing. The address for this location is:</p>
+<p ><a href="https://www.google.com/maps/place/12855+N+Forty+Dr+%23300,+St.+Louis,+MO+63141/@38.6403131,-90.4740766,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2a9f866400ad:0x4e50cedb81d33710!8m2!3d38.6403131!4d-90.4718879" target="_blank" rel="noopener noreferrer">12855 N. Forty Dr. Suite 300<br>St Louis, MO. 63141</a></p>
+<p>The School of Nursing is located in the Walker Medical Building in the North Tower. Check out the meeting agenda, our minutes from 9/26/19 and the flyer for our upcoming workshop!</p>
+<p>We are looking forward to seeing you all at the meeting!</p>
 <p><strong>Agenda: <a href="media/files/SLSIG-agenda-20200220.zip" target="_blank" rel="noopener noreferrer">[Download a Copy]</a></strong></p>
 <ol>
 <li>Present new officers for vote and swear- in</li>
