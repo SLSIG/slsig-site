@@ -211,10 +211,14 @@
 </main>
 <footer class="footer">
         <div class="footer__copyright">
-            © <span id="copyrightYear">Nov 2019</span> St. Louis Simulation Interest Group <small>All Rights Reserved</small>
+            © <span class="copyrightYear">Nov 2019</span> St. Louis Simulation Interest Group <small>All Rights Reserved</small>
 <script>// <![CDATA[
-let copyrightYear = document.querySelector('#copyrightYear')
+let copyrightYears = document.querySelectorAll('.copyrightYear')
+for (copyrightYear_i in copyrightYears) {
+if (isNaN(copyrightYear_i)) continue
+let copyrightYear = copyrightYears[copyrightYear_i]
 copyrightYear.innerHTML = (new Date()).getFullYear()
+}
 // ]]></script>
         </div>
        <button class="footer__bttop js-footer__bttop" aria-label="Back to top"> 

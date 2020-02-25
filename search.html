@@ -6,9 +6,13 @@
                gcse.src   = 'https://cse.google.com/cse.js?cx=' + cx;
                var s = document.getElementsByTagName('script')[0];
                s.parentNode.insertBefore(gcse, s);
-            })();</script><gcse:searchresults-only></gcse:searchresults-only></div></article></main><footer class="footer"><div class="footer__copyright">© <span id="copyrightYear">Nov 2019</span> St. Louis Simulation Interest Group <small>All Rights Reserved</small><script>// <![CDATA[
-let copyrightYear = document.querySelector('#copyrightYear')
+            })();</script><gcse:searchresults-only></gcse:searchresults-only></div></article></main><footer class="footer"><div class="footer__copyright">© <span class="copyrightYear">Nov 2019</span> St. Louis Simulation Interest Group <small>All Rights Reserved</small><script>// <![CDATA[
+let copyrightYears = document.querySelectorAll('.copyrightYear')
+for (copyrightYear_i in copyrightYears) {
+if (isNaN(copyrightYear_i)) continue
+let copyrightYear = copyrightYears[copyrightYear_i]
 copyrightYear.innerHTML = (new Date()).getFullYear()
+}
 // ]]></script></div><button class="footer__bttop js-footer__bttop" aria-label="Back to top"><svg><title>Back to top</title><use xlink:href="https://slsig.github.io/assets/svg/svg-map.svg#toparrow"/></svg></button></footer></div><script>window.publiiThemeMenuConfig = {    
         mobileMenuMode: 'sidebar',
         animationSpeed: 300,
