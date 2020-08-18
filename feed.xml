@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2020-08-18T14:03:40-05:00</updated>
+    <updated>2020-08-18T14:13:43-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -361,7 +361,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2020-08-18T13:31:52-05:00</updated>
+        <updated>2020-08-18T14:12:11-05:00</updated>
             <summary>
                 <![CDATA[
                     SLSIGCreated to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
@@ -402,15 +402,13 @@ let newsletterForm = document.querySelector('#newsletterForm')
 <div> </div>
 <div>Unfortunately, our April 2020 Workshop, <em>How to Start an Affordable University Course to Include Simulated Participants</em>, has been postponed. Due to current events we will reschedule it for sometime within the coming future. We apologize for any inconvenence and thank you for your patience!</div>
 <div> </div>
-<div>In addition, SSM will be hosting the next MINI SUN Conference (also held at the Fenton site) on September 29, 2020.  More information to follow.</div>
-<div> </div>
 <div>Don't forget to celebrate International Simulation Week the week of September 14, 2020!</div>
 </div>
 <div>
 <div> </div>
 <div>Please place the 2020 meeting dates on your calendars (dates are subject to change</div>
 <ul>
-<li>Wednesday, September 9, 2020 1330-1530 via Zoom (link shared via email list)</li>
+<li><a href="media/files/slsig-meeting-20200909.zip" target="_blank" rel="noopener noreferrer">Wednesday, September 9, 2020</a> 1330-1530 via Zoom (link shared via email list)</li>
 <li>Wednesday, October 28, 2020 1330-1530 Location TBD</li>
 </ul>
 </div>
