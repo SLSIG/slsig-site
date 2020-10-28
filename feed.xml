@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2020-10-07T09:46:35-05:00</updated>
+    <updated>2020-10-28T09:35:16-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -308,7 +308,7 @@
         <link href="https://slsig.github.io/about.html"/>
         <id>https://slsig.github.io/about.html</id>
 
-        <updated>2020-09-09T14:02:14-05:00</updated>
+        <updated>2020-10-28T09:32:50-05:00</updated>
             <summary>
                 <![CDATA[
                     The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources. Our mission is to support excellence in simulation facilitation through collaboration and utilization of the&hellip;
@@ -345,8 +345,8 @@ let newsletterForm = document.querySelector('#newsletterForm')
 		let name = document.querySelector('#nameField').value
 		let email = document.querySelector('#emailField').value
 		let org = document.querySelector('#orgField').value
-		newSubTitle.value = `Website Newsletter Request from ${name} (${email})`
-		newSubMsg.value = `${name} from their organization ${org} would like to be emailed newsletter updates at their ${email} email address.`
+		newSubTitle.value = `SLSIG Website Newsletter Request from ${name} (${email})`
+		newSubMsg.value = `${name} from their organization ${org} would like to be emailed SLSIG newsletter updates at their ${email} email address.`
 		alert('Thanks for reaching out! We\'ll get back to you soon!')
 	}
 // ]]></script>
@@ -361,7 +361,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2020-10-07T09:43:19-05:00</updated>
+        <updated>2020-10-28T09:34:32-05:00</updated>
             <summary>
                 <![CDATA[
                     SLSIGCreated to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
@@ -423,8 +423,8 @@ let newsletterForm = document.querySelector('#newsletterForm')
 		let name = document.querySelector('#nameField').value
 		let email = document.querySelector('#emailField').value
 		let org = document.querySelector('#orgField').value
-		newSubTitle.value = `Website Newsletter Request from ${name} (${email})`
-		newSubMsg.value = `${name} from their organization ${org} would like to be emailed newsletter updates at their ${email} email address.`
+		newSubTitle.value = `SLSIG Website Newsletter Request from ${name} (${email})`
+		newSubMsg.value = `${name} from their organization ${org} would like to be emailed SLSIG newsletter updates at their ${email} email address.`
 		alert('Thanks for reaching out! We\'ll get back to you soon!')
 	}
 // ]]></script>
