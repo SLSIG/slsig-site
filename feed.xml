@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2021-07-19T08:28:28-05:00</updated>
+    <updated>2022-05-05T11:16:42-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -309,7 +309,7 @@
         <link href="https://slsig.github.io/about.html"/>
         <id>https://slsig.github.io/about.html</id>
 
-        <updated>2020-10-28T09:32:50-05:00</updated>
+        <updated>2022-05-05T11:16:28-05:00</updated>
             <summary>
                 <![CDATA[
                     The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources. Our mission is to support excellence in simulation facilitation through collaboration and utilization of the&hellip;
@@ -330,7 +330,7 @@
 <div>     Sarah Weyrhich<br><em>     Coordinator, St. Louis Children's Hospital Saigh Simulation Center<br></em><strong>Treasurer:</strong></div>
 <div>     Beth Hankamer<br><em>     Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;"> </span>Department of Pediatrics</em></div>
 <div><strong>IT Sevices:</strong></div>
-<div>     Joshua Spann<br><em>     Technology Support Specialist, SIUE School of Nursing</em></div>
+<div>     Mark Karnowski</div>
 <h4 id="mcetoc_1dpdkfm2h0">Contact Us!</h4>
 <p>You can sign up for our newsletter to get the latest and greatest news around!<br>Please fill out and submit the form below to have us add you to the list!</p>
 <form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"> <label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <button id="newSubSumbitButton">Submit</button></form>
@@ -362,23 +362,19 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2021-07-19T08:27:11-05:00</updated>
+        <updated>2022-05-05T11:11:55-05:00</updated>
             <summary>
                 <![CDATA[
-                    SLSIGCreated to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
+                    Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <center>
 <div class="acronym heading-acronym">
-<div class="s">S</div>
-<div class="l">L</div>
-<div class="s2">S</div>
-<div class="i">I</div>
-<div class="g">G</div>
+<div class="s"><img class="post__image image-top" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></div>
 </div>
-<img class="post__image image-top" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></center>
+</center>
 <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
 <h2 id="mcetoc_1dp38hp5k0">Announcements</h2>
 <p>Visit our <a href="https://slsig.github.io/events.html">Meetings &amp; Events page</a> to keep track of upcoming, current, and past events!</p>
