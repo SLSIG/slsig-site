@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2022-05-05T11:16:42-05:00</updated>
+    <updated>2022-04-21T14:03:21-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -17,20 +17,20 @@
         <link href="https://slsig.github.io/notes.html"/>
         <id>https://slsig.github.io/notes.html</id>
 
-        <updated>2020-02-06T09:50:21-06:00</updated>
+        <updated>2022-03-16T09:30:28-05:00</updated>
             <summary>
                 <![CDATA[
-                    Landing PageThe landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting". The next meeting section&hellip;
+                    Landing Page The landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting". The next meeting&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h4 id="mcetoc_1e0dd95a51">Landing Page</h4>
+                <h4>Landing Page</h4>
 <p>The landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting".</p>
 <p>The next meeting section should have links to the address URL found in google maps until you hit Agenda. A link or button to download a zipfile of the agenda documents should be next to the title text. Extra documentation, like external links and flyers, must be included where referenced for ease of access. Every location or address should have a link to google maps.</p>
 <p>The next meeting section should be as follows:</p>
 <hr>
-<h3 id="mcetoc_1e0b9s79b1"><span style="text-decoration: underline;"><strong>Next Meeting: February 20, 2020, 1:30pm - 3:30pm<br></strong></span></h3>
+<h3><span style="text-decoration: underline;"><strong>Next Meeting: February 20, 2020, 1:30pm - 3:30pm<br></strong></span></h3>
 <p>St. Luke’s Meeting Room<br><span class="LrzXr"><a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">232 S Woods Mill Rd, Chesterfield, MO 63017</a></span><br>(East Medical Office Building Lower Level room 80)</p>
 <p><strong>Agenda: <a href="media/files/SLSIG-agenda-20200220.zip" target="_blank" rel="noopener noreferrer">[Download a Copy]</a></strong></p>
 <ol>
@@ -66,7 +66,7 @@
 </ul>
 </div>
 <hr>
-<h4 id="mcetoc_1e0dcv8fi0">Agendas</h4>
+<h4>Agendas</h4>
 <p>There are 2 types of zipfiles to make for agendas: pre and post meeting.</p>
 <ul>
 <li>Premeeting contains all the paperwork sent out in the actual email itself.</li>
@@ -83,7 +83,7 @@
         <link href="https://slsig.github.io/news.html"/>
         <id>https://slsig.github.io/news.html</id>
 
-        <updated>2020-01-16T15:00:32-06:00</updated>
+        <updated>2022-03-16T11:05:52-05:00</updated>
             <summary>
                 <![CDATA[
                     There is no recent news to display.
@@ -91,7 +91,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                There is no recent news to display.
+                <p>There is no recent news to display.</p>
             ]]>
         </content>
     </entry>
@@ -103,17 +103,22 @@
         <link href="https://slsig.github.io/events.html"/>
         <id>https://slsig.github.io/events.html</id>
 
-        <updated>2021-07-19T08:26:06-05:00</updated>
+        <updated>2022-04-21T10:56:14-05:00</updated>
             <summary>
                 <![CDATA[
-                    Upcoming Events2021 Sep. 15, 2021 via Zoom 2021 Jul. 14, 2021: Teaching Simulation to Teach Others (Palmer, McLaughlin, Hankamer) Feb. 15, 2021: Sim Value Analysis Model: Applying to Calculate ROI (Antisdel &amp; Webb) 2020 Oct. 28, 2020: Civility in Nursing Education (Robin Murray), Website and Resource&hellip;
+                    Upcoming Events 2021 Sep. 15, 2021 via Zoom 2021 Jul. 14, 2021: Teaching Simulation to Teach Others (Palmer, McLaughlin, Hankamer) Feb. 15, 2021: Sim Value Analysis Model: Applying to Calculate ROI (Antisdel &amp; Webb) 2020 Oct. 28, 2020: Civility in Nursing Education (Robin Murray), Website and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="mcetoc_1dror11861">Upcoming Events</h2>
+                <h2>Upcoming Events</h2>
+<p> </p>
+<div>Meeting Friday, April 22, 2022 via Zoom (More Info to Come Soon)</div>
+<div>Meeting Friday, July 13, 2022 via Zoom</div>
+<div>Meeting Friday, September 9, 2022</div>
+<div>Meeting Friday, November 4, 2022</div>
+<h2>Previous Events</h2>
 <p><strong>2021</strong><br>Sep. 15, 2021 via Zoom</p>
-<h2 id="mcetoc_1dror0osn0">Previous Events</h2>
 <p><strong>2021<br></strong><a href="media/files/slsig-meeting-20210719.zip" target="_blank" rel="nofollow noopener noreferrer">Jul. 14, 2021</a>: Teaching Simulation to Teach Others (<small>Palmer, McLaughlin, Hankamer</small>)<strong><br></strong><a href="media/files/slsig-meeting-20210215.zip" target="_blank" rel="noopener noreferrer">Feb. 15, 2021</a>: Sim Value Analysis Model: Applying to Calculate ROI (<small>Antisdel &amp; Webb</small>)</p>
 <p><strong>2020</strong><a href="media/files/slsig-meeting-20201028.zip" target="_blank" rel="nofollow noopener noreferrer"><br>Oct. 28, 2020</a>: Civility in Nursing Education (Robin Murray), <small>Website and Resource Sharing</small><strong><br></strong><a href="media/files/slsig-meeting-20200909.zip" target="_blank" rel="noopener noreferrer">Sep. 9, 2020</a>: Multi-Site CPR Research Study (Erica Frost), <small>Vision Statement, Funding Ideas</small><strong><br></strong><a href="media/files/slsig-meeting-20200520.zip" target="_blank" rel="noopener noreferrer">May. 20, 2020</a>: Escape Rooms and Virtual Simulation<br><a href="media/files/SLSIG-agenda-20200220.zip" target="_blank" rel="nofollow noopener noreferrer">Feb. 20, 2020</a>: New Leadership, Mission/Vision, VR/AR/MR Simulation, Escape Rooms</p>
 <p><strong>2019</strong><br><a href="media/files/SLSIG Meeting Agenda 20191111.zip">Nov. 11, 2019</a>: Cancelled due to inclement weather<br><a href="media/files/SLSIG Meeting Sept 26 2019.zip">Sep. 26, 2019</a>: Life Cast, Review Candidates for Office, Website Updates, 2020 Goals<br><a href="media/files/SLSIG Agenad 7222019.zip">Jul. 22, 2019</a>: Simulation Week, Discuss Social Media Direction and Nov. Workshop<br><a href="media/files/SLSIG Agenad 4112019.zip">Apr. 11, 2019</a>: Electronic Surveys for Evaluations, Brainstorm Simulation Week Ideas<br><a href="media/files/SLSIG Meeting 20190225.zip">Feb. 25, 2019</a>: Plan 2019 Meetings, CHSE Review, E-Tech: Website<br><a href="media/files/SLSIG Meeting 20190204.zip">Feb. 4, 2019</a>: AVKIN, Review Leadership &amp; Communication, IMSH Topics</p>
@@ -131,18 +136,18 @@
         <link href="https://slsig.github.io/featured.html"/>
         <id>https://slsig.github.io/featured.html</id>
 
-        <updated>2019-12-10T11:20:26-06:00</updated>
+        <updated>2022-03-16T09:45:20-05:00</updated>
             <summary>
                 <![CDATA[
-                    Featured OrganizationMercy Washington, Washington, MO Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations.The realistic design of simulation enables the learner to transfer what they have learned&hellip;
+                     Featured Organization Mercy Washington, Washington, MO Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations.The realistic design of simulation enables the learner to transfer what they&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div dir="ltr">
-<h2 id="mcetoc_1drocs21t0">Featured Organization</h2>
-<h4 id="mcetoc_1drocs4od1">Mercy Washington, Washington, MO</h4>
-<img class="post__image--center" src="https://slsig.github.io/media/posts/5/washmo.jpg" alt="Featured Organization - Mercy Washington, Washington, MO" width="949" height="533"><br>
+<h2>Featured Organization</h2>
+<h4>Mercy Washington, Washington, MO</h4>
+<figure class="post__image--center"><img loading="lazy"  src="https://slsig.github.io/media/posts/5/washmo.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://slsig.github.io/media/posts/5/responsive/washmo-xs.jpg 300w ,https://slsig.github.io/media/posts/5/responsive/washmo-sm.jpg 480w ,https://slsig.github.io/media/posts/5/responsive/washmo-md.jpg 768w ,https://slsig.github.io/media/posts/5/responsive/washmo-lg.jpg 1024w ,https://slsig.github.io/media/posts/5/responsive/washmo-xl.jpg 1360w ,https://slsig.github.io/media/posts/5/responsive/washmo-2xl.jpg 1600w"  alt="Featured Organization - Mercy Washington, Washington, MO" width="949" height="533"></figure><br>
 <p> Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations.The realistic design of simulation enables the learner to transfer what they have learned in the simulated setting to the clinical setting in comparison to other methods of education, for example online course modules or didactic lecture (Merchant, 2012). Scenario-based simulation is often only provided in larger hospital facilities or academic settings. However, this type of learning is invaluable for the smaller community or rural hospitals as well.</p>
 <p> Mercy Hospital Washington is an acute care hospital offering comprehensive critical care, medical, surgical, obstetric, and pediatric services. Mercy Hospital Washington began utilizing scenario-based simulation for multidisciplinary training and education several years ago. More recently, the hospital developed a complete simulation training lab, which although small, effectively simulates a patient room and provide realistic training for its co-workers. The training includes scenarios such as detecting a patient experiencing a stroke, taking the patient to CT, using the hospital’s Telestroke technology cart, and actually delivering TPA to the patient. Facilitators also run the simulation manikin remotely, to avoid interfering with co-workers participating in the scenario. The simulation lab is used extensively in Mercy Hospital Washington’s Nursing Fellowship and PCA Fellowship programs.</p>
 <p> Mercy’s use of simulation is not restricted to its simulation lab. The hospital also provides scenario-based education through the use of mock codes. It is also expanding its out-of-the-lab training to include simulated experiences in the labor and delivery department and training of the hospital’s rapid response team.</p>
@@ -162,7 +167,7 @@
         <link href="https://slsig.github.io/gallery.html"/>
         <id>https://slsig.github.io/gallery.html</id>
 
-        <updated>2020-02-25T15:28:08-06:00</updated>
+        <updated>2022-03-16T09:46:29-05:00</updated>
             <summary>
                 <![CDATA[
                     2020 IMSH Some of our members attended 2020's IMSH in San Diego and wanted to share some of the experience! Chamberlin College Moulage Workshop A Moulage Workshop was hosted by Chamberlain College of Nursing on January 22- 23, 2016. The presenter was Bobbie Jo Merica&hellip;
@@ -171,57 +176,57 @@
         <content type="html">
             <![CDATA[
                 <p><strong>2020 IMSH<br></strong>Some of our members attended 2020's IMSH in San Diego and wanted to share some of the experience!</p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/a085b888c04cf447cc52d4e9cb0656c3caf5f78a-14.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/a085b888c04cf447cc52d4e9cb0656c3caf5f78a-14-thumbnail.jpg" alt="" width="720" height="960"></a>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/a085b888c04cf447cc52d4e9cb0656c3caf5f78a-14.jpg" data-size="960x1280"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/a085b888c04cf447cc52d4e9cb0656c3caf5f78a-14-thumbnail.jpg" alt="" width="720" height="960"></a>
 <figcaption class="gallery-description">This year, San Diego! The next few years, listed here!</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/e4ccc64cc7225d4f9e29ab6b126bd9ee268cad68-14.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/e4ccc64cc7225d4f9e29ab6b126bd9ee268cad68-14-thumbnail.jpg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/e4ccc64cc7225d4f9e29ab6b126bd9ee268cad68-14.jpg" data-size="1280x960"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/e4ccc64cc7225d4f9e29ab6b126bd9ee268cad68-14-thumbnail.jpg" alt="" width="720" height="540"></a>
 <figcaption class="gallery-description">SLSIG members posing to commemorate IMSH's 20th anniversary!</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/f305bf9966deb3b7061178b06730e5bff6699fc4-14.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/f305bf9966deb3b7061178b06730e5bff6699fc4-14-thumbnail.jpg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/f305bf9966deb3b7061178b06730e5bff6699fc4-14.jpg" data-size="960x1280"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/f305bf9966deb3b7061178b06730e5bff6699fc4-14-thumbnail.jpg" alt="" width="720" height="960"></a>
 <figcaption class="gallery-description">The beautiful San Diego view at IMSH 2020</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/feda3c873dbffe32e1082c21fe1ee5ffb1524ae3-14.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/feda3c873dbffe32e1082c21fe1ee5ffb1524ae3-14-thumbnail.jpg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/feda3c873dbffe32e1082c21fe1ee5ffb1524ae3-14.jpg" data-size="960x1280"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/feda3c873dbffe32e1082c21fe1ee5ffb1524ae3-14-thumbnail.jpg" alt="" width="720" height="960"></a>
 <figcaption class="gallery-description">One of the main talks</figcaption>
 </figure>
-</div>
+</div></div>
 <figure class="post__image">
 <figure class="post__image"></figure>
 </figure>
 <figure class="post__image"></figure>
 <p><strong>Chamberlin College Moulage Workshop</strong><br>A Moulage Workshop was hosted by Chamberlain College of Nursing on January 22- 23, 2016. The presenter was Bobbie Jo Merica from Moulage Concepts. Below are some pictures from the workshop.</p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_095134.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_095134-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_095140.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_095140-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_103213.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_103213-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_110833.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_110833-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_110835.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_110835-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_113118.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_113118-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115144.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115144-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115149.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115149-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115155.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115155-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115236.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115236-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115305.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115305-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115312.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115312-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115319.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115319-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115325.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115325-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115330.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115330-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115337.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115337-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115341.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115341-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115344.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115344-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115349.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115349-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115353.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115353-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115403.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115403-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115406.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_115406-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_132840.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_132840-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_132848.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_132848-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133014.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_133014-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133231.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_133231-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133237.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_133237-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133350.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_133350-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133401.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_133401-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_142001.jpg" ><img src="https://slsig.github.io/media/posts/4/gallery/20160123_142001-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-</div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_095134.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_095134-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_095140.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_095140-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_103213.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_103213-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_110833.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_110833-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_110835.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_110835-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_113118.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_113118-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115144.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115144-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115149.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115149-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115155.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115155-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115236.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115236-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115305.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115305-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115312.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115312-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115319.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115319-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115325.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115325-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115330.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115330-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115337.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115337-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115341.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115341-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115344.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115344-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115349.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115349-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115353.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115353-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115403.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115403-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115406.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115406-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_132840.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_132840-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_132848.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_132848-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133014.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133014-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133231.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133231-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133237.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133237-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133350.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133350-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133401.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133401-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_142001.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_142001-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
@@ -233,15 +238,15 @@
         <link href="https://slsig.github.io/resources.html"/>
         <id>https://slsig.github.io/resources.html</id>
 
-        <updated>2020-02-03T16:06:43-06:00</updated>
+        <updated>2022-04-21T14:03:15-05:00</updated>
             <summary>
                 <![CDATA[
-                    Simulation Resources Free resources:Sim-OneUniversity of South DakotaUniversity of WashingtonMontgomery CollegeKansas Board of NursingQSEN Institute Paid resources:My Sim Center
+                    Simulation Resources Free resources: Sim-One University of South Dakota University of Washington Montgomery College Kansas Board of Nursing QSEN Institute Paid resources: My Sim Center 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="mcetoc_1dp3ack440">Simulation Resources</h2>
+                <h2>Simulation Resources</h2>
 <p> </p>
 <div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;"><a href="http://sirc.nln.org/" rel="nofollow">NLN SIRC (National League for Nursing Simulation Innovation Resource Center</a>:</span></strong></span></div>
 <div><span style="font-family: verdana, sans-serif; font-size: medium;">Collaboration between Laerdal and NLN. Offers online courses and discussion forums as well as research instruments</span></div>
@@ -271,7 +276,7 @@
 <div><strong><a href="http://www.thesimtech.org/">The Sim Tech:</a></strong></div>
 <div>A diverse collection of free, libre, and proprietary simulation resources including scenarios, multimedia, and links to other resources.</div>
 </div>
-<h2 id="mcetoc_1dp3adm1n1">Tools</h2>
+<h2>Tools</h2>
 <p> </p>
 <div><span style="font-family: verdana, sans-serif; font-size: medium;"><strong><a href="http://collaborate.uw.edu/sites/default/files/files/IMSH_2009_DASH.pdf" rel="nofollow">Dash Tool</a>:</strong></span></div>
 <div><span style="font-family: verdana, sans-serif; font-size: medium;">The Debriefing Assessment for Simulation in Healthcare is designed to assist in evaluating and developing debriefing skills.</span></div>
@@ -284,7 +289,7 @@
 <div> </div>
 <div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;"><a href="http://caehealthcare.com/images/uploads/documents/Simulation_Effectiveness_Tool_0812.pdf" rel="nofollow">CAE’s Simulation Effectiveness Tool</a></span></strong></span></div>
 <div> </div>
-<h2 id="mcetoc_1dp3am16b0">Scenario Resources</h2>
+<h2>Scenario Resources</h2>
 <p> </p>
 <div>
 <div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;">Free resources:</span></strong></span></div>
@@ -309,7 +314,7 @@
         <link href="https://slsig.github.io/about.html"/>
         <id>https://slsig.github.io/about.html</id>
 
-        <updated>2022-05-05T11:16:28-05:00</updated>
+        <updated>2022-04-21T14:03:06-05:00</updated>
             <summary>
                 <![CDATA[
                     The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources. Our mission is to support excellence in simulation facilitation through collaboration and utilization of the&hellip;
@@ -318,23 +323,22 @@
         <content type="html">
             <![CDATA[
                 <p>The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources.</p>
-<h4 id="mcetoc_1dp3a9o4c0">Our Mission</h4>
+<h4>Our Mission</h4>
 <p>Our mission is to support excellence in simulation facilitation through collaboration and utilization of the standards of best practice to provide safe patient care.</p>
-<h4 id="mcetoc_1dp3a9vq61">Our Vision</h4>
+<h4>Our Vision</h4>
 <p>The vision of St. Louis Simulation Interest Group is to meet regional needs for evidenced based simulation training to improve learning outcomes within the healthcare community through simulation education.</p>
-<h4 id="mcetoc_1e1v1q8ko1"><span class="copyrightYear">Current</span> Officers</h4>
-<p id="mcetoc_1e1v1qhq02"><strong>President:<br></strong>     Kathy Roseland<br><em>     Coordinator, MO Baptist College of Nursing<br></em></p>
-<div><strong>Secretary:</strong></div>
-<div>     Melissa Emke<br><em>     Simulation Clinical Educator - Innovation and Learning, SSMHealth Simulation and Training Center<br></em></div>
-<div><strong>Vice President:</strong></div>
-<div>     Sarah Weyrhich<br><em>     Coordinator, St. Louis Children's Hospital Saigh Simulation Center<br></em><strong>Treasurer:</strong></div>
-<div>     Beth Hankamer<br><em>     Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;"> </span>Department of Pediatrics</em></div>
-<div><strong>IT Sevices:</strong></div>
-<div>     Mark Karnowski</div>
-<h4 id="mcetoc_1dpdkfm2h0">Contact Us!</h4>
+<h4><span class="copyrightYear">Current</span> Officers</h4>
+<div><strong>President: Beth Moore</strong>, Coordinator MO Baptist College of Nursing</div>
+<div><strong>Secretary: Melissa Emke</strong>,  Simulation Clinical Educator - Innovation and Learning| SSMHealth Simulation and Training Cente</div>
+<div> </div>
+<div><strong>Vice President: Sarah Weyrhich</strong>, Coordinator, St. Louis Children's Hospital Saigh Simulation Center</div>
+<div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
+<div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
+<h4>Contact Us!</h4>
 <p>You can sign up for our newsletter to get the latest and greatest news around!<br>Please fill out and submit the form below to have us add you to the list!</p>
 <form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"> <label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <button id="newSubSumbitButton">Submit</button></form>
-<script>// <![CDATA[
+<p>
+<script>
 let newsletterForm = document.querySelector('#newsletterForm')
 	let newsletterButton = document.querySelector('#newSubSumbitButton')
 	let newSubTitle = document.querySelector('#newSubTitle')
@@ -350,7 +354,8 @@ let newsletterForm = document.querySelector('#newsletterForm')
 		newSubMsg.value = `${name} from their organization ${org} would like to be emailed SLSIG newsletter updates at their ${email} email address.`
 		alert('Thanks for reaching out! We\'ll get back to you soon!')
 	}
-// ]]></script>
+</script>
+</p>
             ]]>
         </content>
     </entry>
@@ -362,48 +367,55 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2022-05-05T11:11:55-05:00</updated>
+        <updated>2022-04-21T14:03:21-05:00</updated>
             <summary>
                 <![CDATA[
-                    Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events page to keep track of upcoming,&hellip;
+                     S L S I G Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <center>
 <div class="acronym heading-acronym">
-<div class="s"><img class="post__image image-top" src="https://slsig.github.io/media/posts/1/favicon.png" alt="" width="200" height="200"></div>
+<div class="s">S</div>
+<div class="l">L</div>
+<div class="s2">S</div>
+<div class="i">I</div>
+<div class="g">G</div>
 </div>
-</center>
+<figure class="post__image image-top"><img loading="lazy"  src="https://slsig.github.io/media/posts/1/favicon.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://slsig.github.io/media/posts/1/responsive/favicon-xs.png 300w ,https://slsig.github.io/media/posts/1/responsive/favicon-sm.png 480w ,https://slsig.github.io/media/posts/1/responsive/favicon-md.png 768w ,https://slsig.github.io/media/posts/1/responsive/favicon-lg.png 1024w ,https://slsig.github.io/media/posts/1/responsive/favicon-xl.png 1360w ,https://slsig.github.io/media/posts/1/responsive/favicon-2xl.png 1600w"  alt="" width="200" height="200"></figure></center>
 <p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
-<h2 id="mcetoc_1dp38hp5k0">Announcements</h2>
+<h2>Announcements</h2>
 <p>Visit our <a href="https://slsig.github.io/events.html">Meetings &amp; Events page</a> to keep track of upcoming, current, and past events!</p>
 <div>
 <div> </div>
 </div>
-<h3 id="mcetoc_1e1v0k2id1"><span style="text-decoration: underline;">New Leadership!</span></h3>
+<h3><span style="text-decoration: underline;">New Leadership!</span></h3>
 <div> </div>
 <div>
 <div>It is with the greatest respect and enthusiasm that we congratulate the officers recently voted to the SLSIG leadership team.</div>
 <div> </div>
-<div><strong>President: Kathy Roseland</strong>, Coordinator MO Baptist College of Nursing</div>
-<div><strong>Secretary: Melissa Emke</strong>,  Simulation Clinical Educator - Innovation and Learning| SSMHealth Simulation and Training Center</div>
-<div> </div>
-<div>Other officers include:</div>
+<div><strong>President: Beth Moore</strong>, Coordinator MO Baptist College of Nursing</div>
+<div><strong>Secretary: Melissa Emke</strong>,  Simulation Clinical Educator - Innovation and Learning| SSMHealth Simulation and Training Cente</div>
 <div> </div>
 <div><strong>Vice President: Sarah Weyrhich</strong>, Coordinator, St. Louis Children's Hospital Saigh Simulation Center</div>
-<div><strong>Treasurer: Beth Hankamer</strong>, Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
-<div><strong>IT Sevices: Joshua Spann, </strong>Technology Support Specialist, SIUE School of Nursing</div>
+<div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
+<div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
 <div> </div>
-<h3 id="mcetoc_1e1v0itid0"><span style="text-decoration: underline;"><strong>Upcoming attractions:</strong></span></h3>
+<h3><span style="text-decoration: underline;"><strong>Upcoming Meetings:</strong></span></h3>
 <div> </div>
 <div> </div>
 </div>
-<div>Wednesday, Sep. 15, 2021 via Zoom (More Info to Come Soon)</div>
-<h2 id="mcetoc_1droc5knv1">Contact Us!</h2>
+<div>Friday, April 22, 2022 via Zoom (More Info to Come Soon)</div>
+<div>Friday, July 13, 2022 via Zoom</div>
+<div>Friday, September 9, 2022</div>
+<div>Friday, November 4, 2022</div>
+<h2>Contact Us!</h2>
 <p>You can sign up for our newsletter to get the latest and greatest news around!<br>Please fill out and submit the form below to have us add you to the list!</p>
-<br><form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"><br> <label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <br><label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <br> <button id="newSubSumbitButton">Submit</button></form>
-<script>// <![CDATA[
+<p> </p>
+<form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"><br><label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <br><label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <br><button id="newSubSumbitButton">Submit</button></form>
+<p>
+<script>
 let newsletterForm = document.querySelector('#newsletterForm')
 	let newsletterButton = document.querySelector('#newSubSumbitButton')
 	let newSubTitle = document.querySelector('#newSubTitle')
@@ -419,7 +431,8 @@ let newsletterForm = document.querySelector('#newsletterForm')
 		newSubMsg.value = `${name} from their organization ${org} would like to be emailed SLSIG newsletter updates at their ${email} email address.`
 		alert('Thanks for reaching out! We\'ll get back to you soon!')
 	}
-// ]]></script>
+</script>
+</p>
             ]]>
         </content>
     </entry>
