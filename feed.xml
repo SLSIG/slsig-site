@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2022-06-19T14:44:44-05:00</updated>
+    <updated>2022-06-19T15:08:19-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -369,7 +369,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2022-06-19T12:00:21-05:00</updated>
+        <updated>2022-06-19T15:08:19-05:00</updated>
             <summary>
                 <![CDATA[
                      S L S I G Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events&hellip;
@@ -414,7 +414,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
 <h2>Contact Us!</h2>
 <p>You can sign up for our newsletter to get the latest and greatest news around!<br>Please fill out and submit the form below to have us add you to the list!</p>
 <p> </p>
-<form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"><br><label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <br><label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <br><button id="newSubSumbitButton">Submit</button></form>
+<form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"><br><label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <br><label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <br><button id="newSubSumbitButton" type="submit" value="Send">Submit</button></form>
 <p>
 <script>
 let newsletterForm = document.querySelector('#newsletterForm')
