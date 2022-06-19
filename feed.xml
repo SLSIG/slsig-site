@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2022-06-19T16:45:01-05:00</updated>
+    <updated>2022-06-19T16:48:40-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -103,7 +103,7 @@
         <link href="https://slsig.github.io/events.html"/>
         <id>https://slsig.github.io/events.html</id>
 
-        <updated>2022-06-19T16:41:49-05:00</updated>
+        <updated>2022-06-19T16:47:40-05:00</updated>
             <summary>
                 <![CDATA[
                     Upcoming Events 2021 Nov. 17, 2021: SLSIG Meeting Minutes Sep. 15, 2021 via Zoom Jul. 14, 2021: Teaching Simulation to Teach Others (Palmer, McLaughlin, Hankamer) Feb. 15, 2021: Sim Value Analysis Model: Applying to Calculate ROI (Antisdel &amp; Webb) 2020 Oct. 28, 2020: Civility in Nursing&hellip;
@@ -368,7 +368,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2022-06-19T15:08:19-05:00</updated>
+        <updated>2022-06-19T16:48:40-05:00</updated>
             <summary>
                 <![CDATA[
                      S L S I G Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events&hellip;
@@ -404,10 +404,8 @@ let newsletterForm = document.querySelector('#newsletterForm')
 <div> </div>
 <h3><span style="text-decoration: underline;"><strong>Upcoming Meetings:</strong></span></h3>
 <div> </div>
-<div> </div>
+<div><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Friday, July 13, 2022 via Zoom: <a href="https://slsig.github.io/media/files/Draft SLSIG Meeting Agenda-July 13 2022.pdf">Agenda</a></span></div>
 </div>
-<div>Friday, April 22, 2022 via Zoom (More Info to Come Soon)</div>
-<div>Friday, July 13, 2022 via Zoom</div>
 <div>Friday, September 9, 2022</div>
 <div>Friday, November 4, 2022</div>
 <h2>Contact Us!</h2>
