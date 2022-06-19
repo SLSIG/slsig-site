@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2022-06-19T11:38:59-05:00</updated>
+    <updated>2022-06-19T12:01:08-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -83,7 +83,7 @@
         <link href="https://slsig.github.io/news.html"/>
         <id>https://slsig.github.io/news.html</id>
 
-        <updated>2022-03-16T11:05:52-05:00</updated>
+        <updated>2022-06-19T11:52:59-05:00</updated>
             <summary>
                 <![CDATA[
                     There is no recent news to display.
@@ -315,7 +315,7 @@
         <link href="https://slsig.github.io/about.html"/>
         <id>https://slsig.github.io/about.html</id>
 
-        <updated>2022-06-19T11:38:59-05:00</updated>
+        <updated>2022-06-19T12:01:08-05:00</updated>
             <summary>
                 <![CDATA[
                     The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources. Our mission is to support excellence in simulation facilitation through collaboration and utilization of the&hellip;
@@ -330,9 +330,9 @@
 <p>The vision of St. Louis Simulation Interest Group is to meet regional needs for evidenced based simulation training to improve learning outcomes within the healthcare community through simulation education.</p>
 <h4><span class="copyrightYear">Current</span> Officers</h4>
 <div>
-<div><strong>President: Beth Moore</strong>, Manager -- SSMHealth Simulation and Training Center</div>
-<div><strong>Secretary: Melissa Emke</strong>,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
-<div><strong>Vice President: Erin Ziegler,</strong></div>
+<div><strong>President: Beth Moore</strong>, MSN, RN, Manager -- SSMHealth Simulation and Training Center</div>
+<div><strong>Secretary: Melissa Emke</strong>,  DNP, RN,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
+<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE</div>
 <div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
 <div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
 </div>
@@ -369,7 +369,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2022-06-19T11:38:39-05:00</updated>
+        <updated>2022-06-19T12:00:21-05:00</updated>
             <summary>
                 <![CDATA[
                      S L S I G Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings &amp; Events&hellip;
@@ -397,9 +397,9 @@ let newsletterForm = document.querySelector('#newsletterForm')
 <div>
 <div>It is with the greatest respect and enthusiasm that we congratulate the officers recently voted to the SLSIG leadership team.</div>
 <div> </div>
-<div><strong>President: Beth Moore</strong>, Manager -- SSMHealth Simulation and Training Center</div>
-<div><strong>Secretary: Melissa Emke</strong>,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
-<div><strong>Vice President: Erin Ziegler,</strong></div>
+<div><strong>President: Beth Moore</strong>, MSN, RN, Manager -- SSMHealth Simulation and Training Center</div>
+<div><strong>Secretary: Melissa Emke</strong>,  DNP, RN,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
+<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE</div>
 <div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
 <div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
 <div> </div>
