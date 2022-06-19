@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2022-06-19T12:01:08-05:00</updated>
+    <updated>2022-06-19T12:13:52-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -315,7 +315,7 @@
         <link href="https://slsig.github.io/about.html"/>
         <id>https://slsig.github.io/about.html</id>
 
-        <updated>2022-06-19T12:01:08-05:00</updated>
+        <updated>2022-06-19T12:13:52-05:00</updated>
             <summary>
                 <![CDATA[
                     The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources. Our mission is to support excellence in simulation facilitation through collaboration and utilization of the&hellip;
@@ -336,8 +336,8 @@
 <div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
 <div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
 </div>
-<h4>Contact Us!</h4>
-<p>You can sign up for our newsletter to get the latest and greatest news around!<br>Please fill out and submit the form below to have us add you to the list!</p>
+<h4>Stay up to Date!</h4>
+<p>Subscribe to our newsletter to keep up with the latest developments in simulation and be reminded of upcoming events and webinars.<br>Please fill out and submit the form below to have us add you to the list!</p>
 <form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"> <label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="h47c3izppvsw3uwec3s5pwt0"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <button id="newSubSumbitButton">Submit</button></form>
 <p>
 <script>
