@@ -3,7 +3,7 @@
     <title>SLSIG</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2022-07-04T16:31:50-05:00</updated>
+    <updated>2022-07-05T09:14:16-05:00</updated>
     <author>
         <name>St. Louis Simulation Interest Group</name>
     </author>
@@ -331,7 +331,7 @@
         <link href="https://slsig.github.io/about.html"/>
         <id>https://slsig.github.io/about.html</id>
 
-        <updated>2022-07-04T16:31:50-05:00</updated>
+        <updated>2022-07-05T09:14:16-05:00</updated>
             <summary>
                 <![CDATA[
                     The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources. Our mission is to support excellence in simulation facilitation through collaboration and utilization of the&hellip;
@@ -348,7 +348,7 @@
 <div>
 <div><strong>President: Beth Moore</strong>, MSN, RN, Manager -- SSMHealth Simulation and Training Center</div>
 <div><strong>Secretary: Melissa Emke</strong>,  DNP, RN,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
-<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE</div>
+<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE: SimCapture Impact Manager, Laerdal Medical </div>
 <div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
 <div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
 </div>
@@ -387,7 +387,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
         <link href="https://slsig.github.io/landing-page.html"/>
         <id>https://slsig.github.io/landing-page.html</id>
 
-        <updated>2022-07-04T16:31:09-05:00</updated>
+        <updated>2022-07-05T09:13:44-05:00</updated>
             <summary>
                 <![CDATA[
                      S L S I G Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings page to&hellip;
@@ -417,7 +417,7 @@ let newsletterForm = document.querySelector('#newsletterForm')
 <div> </div>
 <div><strong>President: Beth Moore</strong>, MSN, RN, Manager -- SSMHealth Simulation and Training Center</div>
 <div><strong>Secretary: Melissa Emke</strong>,  DNP, RN,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
-<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE</div>
+<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE: SimCapture Impact Manager, Laerdal Medical </div>
 <div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
 <div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
 <div> </div>
