@@ -1,170 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>SLSIG</title>
+    <title>slsig</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2022-07-06T20:48:40-05:00</updated>
+    <updated>2022-11-03T12:39:16-05:00</updated>
     <author>
-        <name>St. Louis Simulation Interest Group</name>
+        <name>Mark_Karnowski</name>
     </author>
     <id>https://slsig.github.io</id>
 
     <entry>
-        <title>Notes</title>
+        <title>Saint Louis Simulation Interest Group</title>
         <author>
-            <name>St. Louis Simulation Interest Group</name>
+            <name>Mark_Karnowski</name>
         </author>
-        <link href="https://slsig.github.io/notes.html"/>
-        <id>https://slsig.github.io/notes.html</id>
+        <link href="https://slsig.github.io/slsig.html"/>
+        <id>https://slsig.github.io/slsig.html</id>
 
-        <updated>2022-03-16T09:30:28-05:00</updated>
+        <updated>2022-11-03T12:24:54-05:00</updated>
             <summary>
                 <![CDATA[
-                    Landing Page The landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting". The next meeting&hellip;
+                        <img src="https://slsig.github.io/media/posts/5/slsig13.png" alt="" />
+                     _______________________________________________________ Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h4>Landing Page</h4>
-<p>The landing page should contain the latest news post under the announcements' next meeting section. If there is no upcoming meeting then the standard "We will follow the standard meeting schedule starting in February and reconvene after the IMSH meeting".</p>
-<p>The next meeting section should have links to the address URL found in google maps until you hit Agenda. A link or button to download a zipfile of the agenda documents should be next to the title text. Extra documentation, like external links and flyers, must be included where referenced for ease of access. Every location or address should have a link to google maps.</p>
-<p>The next meeting section should be as follows:</p>
-<hr>
-<h3><span style="text-decoration: underline;"><strong>Next Meeting: February 20, 2020, 1:30pm - 3:30pm<br></strong></span></h3>
-<p>St. Luke’s Meeting Room<br><span class="LrzXr"><a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">232 S Woods Mill Rd, Chesterfield, MO 63017</a></span><br>(East Medical Office Building Lower Level room 80)</p>
-<p><strong>Agenda: <a href="media/files/SLSIG-agenda-20200220.zip" target="_blank" rel="noopener noreferrer">[Download a Copy]</a></strong></p>
-<ol>
-<li>Present new officers for vote and swear- in</li>
-<li>Brainstorm mission/vision statement</li>
-<li>Brainstorm officer duties</li>
-<li>Identify a group of people willing to wordsmith the two items above and present at May meeting</li>
-<li>Sharing session: Those who attended IMSH to share new innovations and teaching strategies.
-<ol style="list-style-type: lower-alpha;">
-<li>Margie: Virtual Reality</li>
-<li>Beth Hankamer: Escape Room</li>
-<li>Kathy Roseland: Distractions in Simulation</li>
-<li>Sarah Weyhrich:</li>
-</ol>
-</li>
-<li>Share details for <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">workshop in April 2020</a>.</li>
-<li>Identify hosts for the 2020 meetings.</li>
-<li>Web site info</li>
-</ol>
+                    <img src="https://slsig.github.io/media/posts/5/slsig13.png" alt="" />
+                <main>
+<article class="post">
+<h2>_______________________________________________________</h2>
+<h5><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></h5>
+<p> </p>
+<h2><span style="text-decoration: underline; color: #195dc9;">Announcements</span></h2>
+<p>Visit our <a href="https://slsig.github.io/meetings.html">Meetings page</a> to keep track of upcoming, current, and past meetings and presentations!</p>
 <div>
 <div> </div>
-<div>So much has happened over the last few months!<br>We will present the officer candidates for vote at our next meeting.<br>Several members brought back some cool new simulation information from  IMSH.<br><br>Most importantly, we have secured a Free workshop for our April 3, 2020 meeting:
-<div> <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">"How to Start an Affordable University Course to Include Simulated Participants"</a>!</div>
 </div>
+<h2><span style="text-decoration: underline; color: #195dc9;">New Leadership!</span></h2>
 <div> </div>
-<div>Please place the 2020 meeting dates on your calendars (dates are subject to change):</div>
-<ul>
-<li>Thursday, February 20, 2020 1330-1530 at <a href="https://www.google.com/maps/place/232+S+Woods+Mill+Rd,+Chesterfield,+MO+63017/@38.6522289,-90.50506,17z/data=!3m1!4b1!4m5!3m4!1s0x87df2cca8ca44b31:0xf53d5ffeeb8039d!8m2!3d38.6522289!4d-90.5028713" target="_blank" rel="noopener noreferrer">St. Lukes</a></li>
-<li>Friday, April 3, 2020 0900-1330 Workshop at <a href="https://www.google.com/maps/place/1345+Smizer+Mill+Rd,+Fenton,+MO+63026/@38.5246717,-90.478359,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d04ce0d7e319:0xd1c4743f584d3890!8m2!3d38.5246717!4d-90.4761703" target="_blank" rel="noopener noreferrer">SSM onboarding site</a> (see <a href="media/files/2020.04.03--St. Louis Workshop Flyer.pdf">flyer </a>to <a href="https://pages.avkin.com/avkin-workshop-st_louis#register-form" target="_blank" rel="noopener noreferrer">register</a>)</li>
-<li>Wednesday, May 20, 2020 1330-1530 Location TBD</li>
-<li>Wednesday, September 9, 2020 1330-1530 Location TBD</li>
-<li>Wednesday, October 28, 2020 1330-1530 Location TBD</li>
-</ul>
+<div>
+<div>It is with the greatest respect and enthusiasm that we congratulate the officers recently voted to the SLSIG leadership team.</div>
+<div> </div>
+<div><strong>President: Beth Moore</strong>, MSN, RN, Manager -- SSMHealth Simulation and Training Center</div>
+<div><strong>Secretary: Melissa Emke</strong>,  DNP, RN,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
+<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE: SimCapture Impact Manager, Laerdal Medical </div>
+<div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator, St. Louis University, Department of Pediatrics</div>
+<div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor(ret.),  Applied Tech, Special School District of Saint Louis County</div>
+<div> </div>
+<h2><span style="text-decoration: underline; color: #195dc9;">Upcoming Meetings:</span></h2>
+<div> </div>
 </div>
-<hr>
-<h4>Agendas</h4>
-<p>There are 2 types of zipfiles to make for agendas: pre and post meeting.</p>
-<ul>
-<li>Premeeting contains all the paperwork sent out in the actual email itself.</li>
-<li>Postmeeting one is to contain all the paperwork sent in the email, minus the last meeting summary and replacing it with the actual current meeting's summary. You also add any and all supplamental files from the meeting</li>
-</ul>
+<div><span style="color: #e03e2d;">Friday, November 4, 2022</span></div>
+<h2><span style="text-decoration: underline; color: #195dc9;">Stay up to Date!</span></h2>
+<p>Subscribe to our newsletter to keep up with the latest developments in simulation and be reminded of upcoming events and webinars.<br>Please fill out and submit the form below to have us add you to the list!</p>
+<form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"><label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"><label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"><input id="submit_form" type="submit" value="Send"></form>
+<p> </p>
+<footer class="wrapper post__footer">
+<div class="post__share"> </div>
+</footer></article>
+</main><footer class="footer">
+<div class="footer__copyright">
+<p>© <span class="copyrightYear">2022</span> ST. LOUIS SIMULATION INTEREST GROUP <small>ALL RIGHTS RESERVED</small></p>
+</div>
+</footer>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>News</title>
+        <title>Meetings and Presentations</title>
         <author>
-            <name>St. Louis Simulation Interest Group</name>
+            <name>Mark_Karnowski</name>
         </author>
-        <link href="https://slsig.github.io/news.html"/>
-        <id>https://slsig.github.io/news.html</id>
+        <link href="https://slsig.github.io/meetings.html"/>
+        <id>https://slsig.github.io/meetings.html</id>
 
-        <updated>2022-06-26T18:41:38-05:00</updated>
+        <updated>2022-11-03T12:35:45-05:00</updated>
             <summary>
                 <![CDATA[
-                    There is no recent news to display.
+                        <img src="https://slsig.github.io/media/posts/3/slsig13.png" alt="" />
+                     _______________________________________________ Upcoming Meetings 2022 April 22, 2022: SLSIG Meeting Minutes (pending approval) 2021 Nov. 17, 2021: SLSIG Meeting Minutes Presentation:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>There is no recent news to display.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Meetings</title>
-        <author>
-            <name>St. Louis Simulation Interest Group</name>
-        </author>
-        <link href="https://slsig.github.io/events.html"/>
-        <id>https://slsig.github.io/events.html</id>
-
-        <updated>2022-07-06T20:48:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Upcoming Meetings 2022 April 22, 2022: SLSIG Meeting Minutes (pending approval) 2021 Nov. 17, 2021: SLSIG Meeting Minutes Presentation: MITS IV Trainer Sep. 15, 2021: SLSIG Meeting Minutes Jul. 14, 2021: SLSIG Meeting Minutes Simulation Bootcamp for Future Nurse Educators (Palmer, McLaughlin, Hankamer) April 12,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>Upcoming Meetings</h2>
+                    <img src="https://slsig.github.io/media/posts/3/slsig13.png" alt="" />
+                <main>
+<article class="post">
+<div class="wrapper post__entry">
+<h2>_______________________________________________</h2>
+<h2><span style="text-decoration: underline; color: #195dc9;">Upcoming Meetings</span></h2>
 <p> </p>
 <div> </div>
-<div>Meeting Wednesday, July 13, 2022 via Zoom : <a href="https://slsig.github.io/media/files/SLSIG Meeting Agenda-July 13 2022.pdf">Agenda</a></div>
-<div> </div>
-<div>Meeting Friday, September 9, 2022</div>
-<div>Meeting Friday, November 4, 2022</div>
-<h2>Previous Meetings and Presentations</h2>
+<div><span style="color: #e03e2d;">Meeting Friday, November 4, 2022</span></div>
+<h2><span style="text-decoration: underline; color: #195dc9;">Previous Meetings and Presentations</span></h2>
 <p> </p>
-<p><span style="text-decoration: underline;"><strong>2022</strong></span></p>
+<p><strong>2022</strong></p>
 <p>April 22, 2022: SLSIG Meeting Minutes (pending approval)</p>
-<p><span style="text-decoration: underline;"><strong>2021</strong></span><br>Nov. 17, 2021: <a href="https://slsig.github.io/media/files/SLSIG meeting minutes  11.17.21.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://www.ivtrainer.com" target="_blank" rel="noopener noreferrer">Presentation: MITS IV Trainer</a></p>
-<p>Sep. 15, 2021: <a href="https://slsig.github.io/media/files/SLSIG meeting minutes  09.15.2021.pdf">SLSIG Meeting Minutes</a></p>
-<p>Jul. 14, 2021: <a href="https://slsig.github.io/media/files/SLSIG meeting minutes  07.14.2021.pdf">SLSIG Meeting Minutes</a><br>                        <a href="https://slsig.github.io/media/files/SLSIG July 14 Presentation.pdf">Simulation Bootcamp for Future Nurse Educators </a><br>                         <span style="color: #3598db;">(<small>Palmer, McLaughlin,  Hankamer</small>)</span></p>
-<p>April 12, 2021: <a href="https://slsig.github.io/media/files/SLSIG meeting minutes  07.14.2021.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://slsig.github.io/media/files/SLSIG DEI PRESENTATION 3.30.21.pdf">Presentation: DEI (Mia Malcolm)</a></p>
-<p>Feb. 15, 2021: <a href="https://slsig.github.io/media/files/SLSIG meeting minutes  02.15.2021.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://slsig.github.io/media/files/Value Analysis Model.pdf">Sim Value Analysis Model: Applying to Calculate ROI (<small>Antisdel &amp; Webb</small>)</a></p>
-<p><span style="text-decoration: underline;"><strong>2020</strong></span><br>Oct. 28, 2020: <a href="https://slsig.github.io/media/files/slsig-meeting-20201028.zip">SLSIG Meeting Minutes   </a><br>                          <a href="https://slsig.github.io/media/files/Slide Deck Handout SLSIG Civility 20201028.pdf">Civility in Nursing Education (Robin Murray)</a><br>                         <a href="https://slsig.github.io/media/files/Let's PracticeSLSIG .pdf"> Let's Practice!</a></p>
-<p>Sep. 9, 2020: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20200909.pdf">SLSIG Meeting Minutes</a><br>                        Multi-Site CPR Research Study (Erica Frost)</p>
-<p><strong>       <br></strong>May 20, 2020: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20200520.pdf">SLSIG Meeting Minutes</a><br>                           <a href="https://slsig.github.io/media/files/Escape Rooms 20200520.pdf">Escape Rooms and Virtual Simulation </a></p>
-<p>Feb. 20, 2020: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20200220.pdf">SLSIG Meeting Minutes</a></p>
-<p><span style="text-decoration: underline;"><strong>2019</strong></span><br>Nov. 11, 2019: Cancelled due to inclement weather</p>
-<p>Sep. 26, 2019: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20190926.pdf">SLSIG Meeting Minutes</a><br>                          Life Cast, Review Candidates for Office, Website Updates, 2020 Goals</p>
-<p>Jul. 22, 2019: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20200220.pdf">SLSIG Meeting Minutes</a><br>                         Simulation Week, Discuss Social Media Direction and Nov. Workshop</p>
-<p>Apr. 11, 2019: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20200220.pdf">SLSIG Meeting Minutes</a><br>                         Electronic Surveys for Evaluations, Brainstorm Simulation Week Ideas</p>
-<p>Feb. 25,  2019: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20200220.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://slsig.github.io/media/files/Debriefing with DeBrief.pdf">Debriefing with DeBrief,</a> <a href="https://slsig.github.io/media/files/Using TeamSTEPPS for IPE.pdf">TeamSTEPPS for IPE</a>,<br>                          Plan 2019 Meetings, CHSE Review, E-Tech: Website</p>
-<p>Feb. 4, 2019: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20190204.pdf">SLSIG Meeting Minutes</a><br>                        AVKIN, Review Leadership &amp; Communication, IMSH Topics</p>
-<p><strong>2018</strong><br>Nov. 14, 2018: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20181114.pdf">SLSIG Meeting Minutes</a><br>                          Laerdal, Simulation Week, How are We Evaluating Teaching Strategies?</p>
+<p><strong>2021</strong><br>Nov. 17, 2021: <a href="https://slsig.github.io/media/files/SLSIG%20meeting%20minutes%20%2011.17.21.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://www.ivtrainer.com/" target="_blank" rel="noopener noreferrer">Presentation: MITS IV Trainer</a></p>
+<p>Sep. 15, 2021: <a href="https://slsig.github.io/media/files/SLSIG%20meeting%20minutes%20%2009.15.2021.pdf">SLSIG Meeting Minutes</a></p>
+<p>Jul. 14, 2021: <a href="https://slsig.github.io/media/files/SLSIG%20meeting%20minutes%20%2007.14.2021.pdf">SLSIG Meeting Minutes</a><br>                        <a href="https://slsig.github.io/media/files/SLSIG%20July%2014%20Presentation.pdf">Simulation Bootcamp for Future Nurse Educators</a><br>                         (<small>Palmer, McLaughlin,  Hankamer</small>)</p>
+<p>April 12, 2021: <a href="https://slsig.github.io/media/files/SLSIG%20meeting%20minutes%20%2007.14.2021.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://slsig.github.io/media/files/SLSIG%20DEI%20PRESENTATION%203.30.21.pdf">Presentation: DEI (Mia Malcolm)</a></p>
+<p>Feb. 15, 2021: <a href="https://slsig.github.io/media/files/SLSIG%20meeting%20minutes%20%2002.15.2021.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://slsig.github.io/media/files/Value%20Analysis%20Model.pdf">Sim Value Analysis Model: Applying to Calculate ROI (<small>Antisdel &amp; Webb</small>)</a></p>
+<p><strong>2020</strong><br>Oct. 28, 2020: <a href="https://slsig.github.io/media/files/slsig-meeting-20201028.zip">SLSIG Meeting Minutes   </a><br>                          <a href="https://slsig.github.io/media/files/Slide%20Deck%20Handout%20SLSIG%20Civility%2020201028.pdf">Civility in Nursing Education (Robin Murray)</a><br>                         <a href="https://slsig.github.io/media/files/Let's%20PracticeSLSIG%20.pdf">Let's Practice!</a></p>
+<p>Sep. 9, 2020: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020200909.pdf">SLSIG Meeting Minutes</a><br>                        Multi-Site CPR Research Study (Erica Frost)</p>
+<p><strong>       <br></strong>May 20, 2020: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020200520.pdf">SLSIG Meeting Minutes</a><br>                           <a href="https://slsig.github.io/media/files/Escape%20Rooms%2020200520.pdf">Escape Rooms and Virtual Simulation </a></p>
+<p>Feb. 20, 2020: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020200220.pdf">SLSIG Meeting Minutes</a></p>
+<p><strong>2019</strong><br>Nov. 11, 2019: Cancelled due to inclement weather</p>
+<p>Sep. 26, 2019: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020190926.pdf">SLSIG Meeting Minutes</a><br>                          Life Cast, Review Candidates for Office, Website Updates, 2020 Goals</p>
+<p>Jul. 22, 2019: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020200220.pdf">SLSIG Meeting Minutes</a><br>                         Simulation Week, Discuss Social Media Direction and Nov. Workshop</p>
+<p>Apr. 11, 2019: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020200220.pdf">SLSIG Meeting Minutes</a><br>                         Electronic Surveys for Evaluations, Brainstorm Simulation Week Ideas</p>
+<p>Feb. 25,  2019: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020200220.pdf">SLSIG Meeting Minutes</a><br>                          <a href="https://slsig.github.io/media/files/Debriefing%20with%20DeBrief.pdf">Debriefing with DeBrief,</a> <a href="https://slsig.github.io/media/files/Using%20TeamSTEPPS%20for%20IPE.pdf">TeamSTEPPS for IPE</a>,<br>                          Plan 2019 Meetings, CHSE Review, E-Tech: Website</p>
+<p>Feb. 4, 2019: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020190204.pdf">SLSIG Meeting Minutes</a><br>                        AVKIN, Review Leadership &amp; Communication, IMSH Topics</p>
+<p><strong>2018</strong><br>Nov. 14, 2018: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020181114.pdf">SLSIG Meeting Minutes</a><br>                          Laerdal, Simulation Week, How are We Evaluating Teaching Strategies?</p>
 <p>Sep 19, 2018: SLSIG Meeting<br>                          Nikki Rogers: Debriefing, Simulation Week, Elect Leadership, Website</p>
-<p>Jul. 18, 2018: <a href="https://slsig.github.io/media/files/SLSIG Meeting Minutes 20180718.pdf">SLSIG Meeting Minutes</a><br>                         Gaumard, CHSE Workshop Update, INACSL News, Tour of MBU SON</p>
+<p>Jul. 18, 2018: <a href="https://slsig.github.io/media/files/SLSIG%20Meeting%20Minutes%2020180718.pdf">SLSIG Meeting Minutes</a><br>                         Gaumard, CHSE Workshop Update, INACSL News, Tour of MBU SON</p>
 <p><strong>2017</strong><br>Nov. 21, 2017: SLSIG Meeting<br>                          Exploring Simulation Lab Operations, Simulation Conferences</p>
 <p>Aug. 2, 2017: SLSIG Meeting<br>                         INACSL &amp; SUN Info, Brainstorming</p>
+</div>
+<footer class="wrapper post__footer">
+<div class="post__share"> </div>
+</footer></article>
+</main>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Featured</title>
+        <title>Featured Organizations</title>
         <author>
-            <name>St. Louis Simulation Interest Group</name>
+            <name>Mark_Karnowski</name>
         </author>
         <link href="https://slsig.github.io/featured.html"/>
         <id>https://slsig.github.io/featured.html</id>
 
-        <updated>2022-03-16T09:45:20-05:00</updated>
+        <updated>2022-11-03T12:39:16-05:00</updated>
             <summary>
                 <![CDATA[
-                     Featured Organization Mercy Washington, Washington, MO Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations.The realistic design of simulation enables the learner to transfer what they&hellip;
+                        <img src="https://slsig.github.io/media/posts/2/slsig13.png" alt="" />
+                     ________________________________________________________ Fontbonne University The group recently toured the simulation rooms of the new Fontbonne University BSN program. Scenario-based simulation&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div dir="ltr">
-<h2>Featured Organization</h2>
+                    <img src="https://slsig.github.io/media/posts/2/slsig13.png" alt="" />
+                <header id="js-header" class="top is-visible"><nav class="navbar js-navbar"></nav></header><main>
+<article class="post">
+<div class="wrapper post__entry">
+<div dir="ltr">
+<h2>________________________________________________________</h2>
+<h4>Fontbonne University</h4>
+<p> </p>
+<p>The group recently toured the simulation rooms of the new Fontbonne University BSN program.</p>
+<p> </p>
+<p> </p>
+<p> </p>
 <h4>Mercy Washington, Washington, MO</h4>
-<figure class="post__image--center"><img loading="lazy"  src="https://slsig.github.io/media/posts/5/washmo.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://slsig.github.io/media/posts/5/responsive/washmo-xs.jpg 300w ,https://slsig.github.io/media/posts/5/responsive/washmo-sm.jpg 480w ,https://slsig.github.io/media/posts/5/responsive/washmo-md.jpg 768w ,https://slsig.github.io/media/posts/5/responsive/washmo-lg.jpg 1024w ,https://slsig.github.io/media/posts/5/responsive/washmo-xl.jpg 1360w ,https://slsig.github.io/media/posts/5/responsive/washmo-2xl.jpg 1600w"  alt="Featured Organization - Mercy Washington, Washington, MO" width="949" height="533"></figure><br>
+<figure class="post__image--center"><figure class="lazyautosizes lazyloaded"><img loading="lazy"  src="https://slsig.github.io/media/posts/5/washmo.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://slsig.github.io/media/posts/5/responsive/washmo-xs.jpg 384w ,https://slsig.github.io/media/posts/5/responsive/washmo-sm.jpg 600w ,https://slsig.github.io/media/posts/5/responsive/washmo-md.jpg 768w ,https://slsig.github.io/media/posts/5/responsive/washmo-lg.jpg 1200w ,https://slsig.github.io/media/posts/5/responsive/washmo-xl.jpg 1600w"  sizes="526px" srcset="https://slsig.github.io/media/posts/5/responsive/washmo-xs.jpg 300w ,https://slsig.github.io/media/posts/5/responsive/washmo-sm.jpg 480w ,https://slsig.github.io/media/posts/5/responsive/washmo-md.jpg 768w ,https://slsig.github.io/media/posts/5/responsive/washmo-lg.jpg 1024w ,https://slsig.github.io/media/posts/5/responsive/washmo-xl.jpg 1360w ,https://slsig.github.io/media/posts/5/responsive/washmo-2xl.jpg 1600w" alt="Featured Organization - Mercy Washington, Washington, MO" width="949" height="533" loading="lazy" data-src="https://slsig.github.io/media/posts/5/washmo.jpg" data-sizes="auto" data-srcset="https://slsig.github.io/media/posts/5/responsive/washmo-xs.jpg 300w ,https://slsig.github.io/media/posts/5/responsive/washmo-sm.jpg 480w ,https://slsig.github.io/media/posts/5/responsive/washmo-md.jpg 768w ,https://slsig.github.io/media/posts/5/responsive/washmo-lg.jpg 1024w ,https://slsig.github.io/media/posts/5/responsive/washmo-xl.jpg 1360w ,https://slsig.github.io/media/posts/5/responsive/washmo-2xl.jpg 1600w" data-aspectratio="1.780488"></figure></figure>
+<br>
 <p> Scenario-based simulation has been found to be an effective learning strategy to enhance the safe delivery of patient interventions and professional competencies in high-risk, low-incidence clinical situations.The realistic design of simulation enables the learner to transfer what they have learned in the simulated setting to the clinical setting in comparison to other methods of education, for example online course modules or didactic lecture (Merchant, 2012). Scenario-based simulation is often only provided in larger hospital facilities or academic settings. However, this type of learning is invaluable for the smaller community or rural hospitals as well.</p>
 <p> Mercy Hospital Washington is an acute care hospital offering comprehensive critical care, medical, surgical, obstetric, and pediatric services. Mercy Hospital Washington began utilizing scenario-based simulation for multidisciplinary training and education several years ago. More recently, the hospital developed a complete simulation training lab, which although small, effectively simulates a patient room and provide realistic training for its co-workers. The training includes scenarios such as detecting a patient experiencing a stroke, taking the patient to CT, using the hospital’s Telestroke technology cart, and actually delivering TPA to the patient. Facilitators also run the simulation manikin remotely, to avoid interfering with co-workers participating in the scenario. The simulation lab is used extensively in Mercy Hospital Washington’s Nursing Fellowship and PCA Fellowship programs.</p>
 <p> Mercy’s use of simulation is not restricted to its simulation lab. The hospital also provides scenario-based education through the use of mock codes. It is also expanding its out-of-the-lab training to include simulated experiences in the labor and delivery department and training of the hospital’s rapid response team.</p>
@@ -173,118 +165,57 @@
 <p>- Spencer, 2008</p>
 <p> The statement is true for all clinical environments.</p>
 </div>
+</div>
+</article>
+</main>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Gallery</title>
+        <title>Simulation Resources</title>
         <author>
-            <name>St. Louis Simulation Interest Group</name>
-        </author>
-        <link href="https://slsig.github.io/gallery.html"/>
-        <id>https://slsig.github.io/gallery.html</id>
-
-        <updated>2022-03-16T09:46:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    2020 IMSH Some of our members attended 2020's IMSH in San Diego and wanted to share some of the experience! Chamberlin College Moulage Workshop A Moulage Workshop was hosted by Chamberlain College of Nursing on January 22- 23, 2016. The presenter was Bobbie Jo Merica&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>2020 IMSH<br></strong>Some of our members attended 2020's IMSH in San Diego and wanted to share some of the experience!</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/a085b888c04cf447cc52d4e9cb0656c3caf5f78a-14.jpg" data-size="960x1280"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/a085b888c04cf447cc52d4e9cb0656c3caf5f78a-14-thumbnail.jpg" alt="" width="720" height="960"></a>
-<figcaption class="gallery-description">This year, San Diego! The next few years, listed here!</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/e4ccc64cc7225d4f9e29ab6b126bd9ee268cad68-14.jpg" data-size="1280x960"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/e4ccc64cc7225d4f9e29ab6b126bd9ee268cad68-14-thumbnail.jpg" alt="" width="720" height="540"></a>
-<figcaption class="gallery-description">SLSIG members posing to commemorate IMSH's 20th anniversary!</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/f305bf9966deb3b7061178b06730e5bff6699fc4-14.jpg" data-size="960x1280"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/f305bf9966deb3b7061178b06730e5bff6699fc4-14-thumbnail.jpg" alt="" width="720" height="960"></a>
-<figcaption class="gallery-description">The beautiful San Diego view at IMSH 2020</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/feda3c873dbffe32e1082c21fe1ee5ffb1524ae3-14.jpg" data-size="960x1280"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/feda3c873dbffe32e1082c21fe1ee5ffb1524ae3-14-thumbnail.jpg" alt="" width="720" height="960"></a>
-<figcaption class="gallery-description">One of the main talks</figcaption>
-</figure>
-</div></div>
-<figure class="post__image">
-<figure class="post__image"></figure>
-</figure>
-<figure class="post__image"></figure>
-<p><strong>Chamberlin College Moulage Workshop</strong><br>A Moulage Workshop was hosted by Chamberlain College of Nursing on January 22- 23, 2016. The presenter was Bobbie Jo Merica from Moulage Concepts. Below are some pictures from the workshop.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_095134.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_095134-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_095140.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_095140-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_103213.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_103213-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_110833.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_110833-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_110835.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_110835-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_113118.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_113118-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115144.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115144-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115149.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115149-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115155.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115155-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115236.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115236-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115305.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115305-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115312.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115312-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115319.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115319-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115325.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115325-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115330.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115330-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115337.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115337-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115341.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115341-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115344.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115344-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115349.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115349-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115353.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115353-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115403.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115403-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_115406.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_115406-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_132840.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_132840-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_132848.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_132848-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133014.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133014-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133231.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133231-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133237.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133237-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133350.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133350-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_133401.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_133401-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://slsig.github.io/media/posts/4/gallery/20160123_142001.jpg" data-size="5312x2988"><img loading="lazy" src="https://slsig.github.io/media/posts/4/gallery/20160123_142001-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Resources</title>
-        <author>
-            <name>St. Louis Simulation Interest Group</name>
+            <name>Mark_Karnowski</name>
         </author>
         <link href="https://slsig.github.io/resources.html"/>
         <id>https://slsig.github.io/resources.html</id>
 
-        <updated>2022-04-21T14:03:15-05:00</updated>
+        <updated>2022-11-03T12:37:20-05:00</updated>
             <summary>
                 <![CDATA[
-                    Simulation Resources Free resources: Sim-One University of South Dakota University of Washington Montgomery College Kansas Board of Nursing QSEN Institute Paid resources: My Sim Center 
+                        <img src="https://slsig.github.io/media/posts/1/slsig13.png" alt="" />
+                     ________________________________________________________ NLN SIRC (National League for Nursing Simulation Innovation Resource Center: Collaboration between Laerdal and NLN. Offers online courses&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>Simulation Resources</h2>
-<p> </p>
-<div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;"><a href="http://sirc.nln.org/" rel="nofollow">NLN SIRC (National League for Nursing Simulation Innovation Resource Center</a>:</span></strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;">Collaboration between Laerdal and NLN. Offers online courses and discussion forums as well as research instruments</span></div>
+                    <img src="https://slsig.github.io/media/posts/1/slsig13.png" alt="" />
+                <main>
+<article class="post">
+<div class="wrapper post__entry">
+<div><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.42383em + 0.17798 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">________________________________________________________</span></div>
+</div>
+<div class="wrapper post__entry">
 <div> </div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><strong><a href="http://www.ssih.org/" rel="nofollow">SSH (Society for Simulation in Healthcare):</a></strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;">A multidisciplinary society that holds annual conferences. Provides Lab accreditation as well as individual certification (CHSE, etc.). Offers webinars, prep courses, and a journal. Online SimCenter directory available.</span></div>
+<div><strong><a href="http://sirc.nln.org/" rel="nofollow">NLN SIRC (National League for Nursing Simulation Innovation Resource Center</a>:</strong></div>
+<div>Collaboration between Laerdal and NLN. Offers online courses and discussion forums as well as research instruments</div>
 <div> </div>
-<div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;"><a href="http://www.inacsl.org/" rel="nofollow">INACSL (International Nursing Association for Clinical Simulation &amp; Learning):</a></span></strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;">Promotes research, created evidence based practice standards for simulation. Hosts annual conference for nursing simulation. Journal, webinars, and research grants, as well as mentorships.</span></div>
+<div><strong><a href="http://www.ssih.org/" rel="nofollow">SSH (Society for Simulation in Healthcare):</a></strong></div>
+<div>A multidisciplinary society that holds annual conferences. Provides Lab accreditation as well as individual certification (CHSE, etc.). Offers webinars, prep courses, and a journal. Online SimCenter directory available.</div>
 <div> </div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><strong><a href="http://www.simghosts.org/sim/default.asp" rel="nofollow">Simghosts (The Gathering of Healthcare Simulation Technology Specialists)</a>:</strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;">Non-profit organization dedicated to </span><span style="font-family: verdana, sans-serif; font-size: medium;">supporting the growing international population of professionals operating medical simulation technology and spaces.</span></div>
+<div><strong><a href="http://www.inacsl.org/" rel="nofollow">INACSL (International Nursing Association for Clinical Simulation &amp; Learning):</a></strong></div>
+<div>Promotes research, created evidence based practice standards for simulation. Hosts annual conference for nursing simulation. Journal, webinars, and research grants, as well as mentorships.</div>
+<div> </div>
+<div><strong><a href="http://www.simghosts.org/sim/default.asp" rel="nofollow">Simghosts (The Gathering of Healthcare Simulation Technology Specialists)</a>:</strong></div>
+<div>Non-profit organization dedicated to supporting the growing international population of professionals operating medical simulation technology and spaces.</div>
 <div> </div>
 <div><strong><a href="https://www.laerdal.com/us/learn/sun/">Laerdal SUN (Simulation User Network)</a>:</strong></div>
 <div>A network of peers and experts in the realm of simulation, hosted by Laerdal. There are semi-annual conferences for simulation pedagogy and technology.</div>
 <div><a href="http://simulation.laerdal.com/forum/files/default.aspx">http://simulation.laerdal.com/forum/files/default.aspx</a></div>
 <div> </div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><strong>University of Washington:</strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://collaborate.uw.edu/resources-and-publications/simulation-resources.html" rel="nofollow">http://collaborate.uw.edu/resources-and-publications/simulation-resources.html</a></span><span style="font-family: verdana, sans-serif; font-size: medium;"> </span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://healthysimulation.com/" rel="nofollow">http://healthysimulation.com</a></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="https://harvardmedsim.org/" rel="nofollow">https://harvardmedsim.org</a></span></div>
+<div><strong>University of Washington:</strong></div>
+<div><a href="http://collaborate.uw.edu/resources-and-publications/simulation-resources.html" rel="nofollow">http://collaborate.uw.edu/resources-and-publications/simulation-resources.html</a> </div>
+<div><a href="http://healthysimulation.com/" rel="nofollow">http://healthysimulation.com</a></div>
+<div><a href="https://harvardmedsim.org/" rel="nofollow">https://harvardmedsim.org</a></div>
 <div> </div>
 <div>
 <div><strong><a href="https://www.facebook.com/groups/1736010206721157/">Simulation Technician Network:</a></strong></div>
@@ -295,160 +226,38 @@
 </div>
 <h2>Tools</h2>
 <p> </p>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><strong><a href="http://collaborate.uw.edu/sites/default/files/files/IMSH_2009_DASH.pdf" rel="nofollow">Dash Tool</a>:</strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;">The Debriefing Assessment for Simulation in Healthcare is designed to assist in evaluating and developing debriefing skills.</span></div>
+<div><strong><a href="http://collaborate.uw.edu/sites/default/files/files/IMSH_2009_DASH.pdf" rel="nofollow">Dash Tool</a>:</strong></div>
+<div>The Debriefing Assessment for Simulation in Healthcare is designed to assist in evaluating and developing debriefing skills.</div>
 <div> </div>
-<div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;"><a href="http://collaborate.uw.edu/educators-toolkit/debriefing-tools/incite-debriefing-tool.html" rel="nofollow">InCITE Clinical Debriefing Tool</a>:</span></strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;">Modeled on Debriefing with Good Judgment</span></div>
+<div><strong><a href="http://collaborate.uw.edu/educators-toolkit/debriefing-tools/incite-debriefing-tool.html" rel="nofollow">InCITE Clinical Debriefing Tool</a>:</strong></div>
+<div>Modeled on Debriefing with Good Judgment</div>
 <div> </div>
-<div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;"><a href="http://www.wiser.pitt.edu/" rel="nofollow">WISER Resources</a>:</span></strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;">Offers online classes and training for sim specialists and more</span></div>
+<div><strong><a href="http://www.wiser.pitt.edu/" rel="nofollow">WISER Resources</a>:</strong></div>
+<div>Offers online classes and training for sim specialists and more</div>
 <div> </div>
-<div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;"><a href="http://caehealthcare.com/images/uploads/documents/Simulation_Effectiveness_Tool_0812.pdf" rel="nofollow">CAE’s Simulation Effectiveness Tool</a></span></strong></span></div>
+<div><strong><a href="http://caehealthcare.com/images/uploads/documents/Simulation_Effectiveness_Tool_0812.pdf" rel="nofollow">CAE’s Simulation Effectiveness Tool</a></strong></div>
 <div> </div>
 <h2>Scenario Resources</h2>
 <p> </p>
 <div>
-<div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;">Free resources:</span></strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://www.sim-one.ca/scenario" rel="nofollow">Sim-One</a></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://www.usd.edu/health-sciences/nursing/simulation-scenarios" rel="nofollow">University of South Dakota</a></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://collaborate.uw.edu/tools-and-curricula/scenario-building-and-library.html" rel="nofollow">University of Washington</a></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="https://cms.montgomerycollege.edu/nursingsims/" rel="nofollow">Montgomery College</a></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://www.ksbn.org/education/Scenario/SimulationScenarioLibrary.htm" rel="nofollow">Kansas Board of Nursing</a></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://qsen.org/teaching-strategies/strategy-search/advanced-search-results/?strat_type=Simulation%20Exercises" rel="nofollow">QSEN Institute</a></span></div>
+<div><strong>Free resources:</strong></div>
+<div><a href="http://www.sim-one.ca/scenario" rel="nofollow">Sim-One</a></div>
+<div><a href="http://www.usd.edu/health-sciences/nursing/simulation-scenarios" rel="nofollow">University of South Dakota</a></div>
+<div><a href="http://collaborate.uw.edu/tools-and-curricula/scenario-building-and-library.html" rel="nofollow">University of Washington</a></div>
+<div><a href="https://cms.montgomerycollege.edu/nursingsims/" rel="nofollow">Montgomery College</a></div>
+<div><a href="http://www.ksbn.org/education/Scenario/SimulationScenarioLibrary.htm" rel="nofollow">Kansas Board of Nursing</a></div>
+<div><a href="http://qsen.org/teaching-strategies/strategy-search/advanced-search-results/?strat_type=Simulation%20Exercises" rel="nofollow">QSEN Institute</a></div>
 <div> </div>
-<div><span style="font-size: medium;"><strong><span style="font-family: verdana, sans-serif;">Paid resources:</span></strong></span></div>
-<div><span style="font-family: verdana, sans-serif; font-size: medium;"><a href="http://www.mysimcenter.com/en-US/SimStoreHome.aspx" rel="nofollow">My Sim Center</a></span></div>
+<div><strong>Paid resources:</strong></div>
+<div><a href="http://www.mysimcenter.com/en-US/SimStoreHome.aspx" rel="nofollow">My Sim Center</a></div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About</title>
-        <author>
-            <name>St. Louis Simulation Interest Group</name>
-        </author>
-        <link href="https://slsig.github.io/about.html"/>
-        <id>https://slsig.github.io/about.html</id>
-
-        <updated>2022-07-06T20:44:39-05:00</updated>
-            <summary>
-                <![CDATA[
-                    The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources. Our mission is to support excellence in simulation facilitation through collaboration and utilization of the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The Saint Louis Simulation Group (SLSIG) was spearheaded by several simulation experts in the St. Louis region who wanted to bring the simulation community together for collaboration, education and resources.</p>
-<h4>Our Mission</h4>
-<p>Our mission is to support excellence in simulation facilitation through collaboration and utilization of the standards of best practice to provide safe patient care.</p>
-<h4>Our Vision</h4>
-<p>The vision of St. Louis Simulation Interest Group is to meet regional needs for evidenced based simulation training to improve learning outcomes within the healthcare community through simulation education.</p>
-<h4><span class="copyrightYear">Current</span> Officers</h4>
-<div>
-<div><strong>President: Beth Moore</strong>, MSN, RN, Manager -- SSMHealth Simulation and Training Center</div>
-<div><strong>Secretary: Melissa Emke</strong>,  DNP, RN,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
-<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE: SimCapture Impact Manager, Laerdal Medical </div>
-<div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
-<div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
 </div>
-<h4>Stay up to Date!</h4>
-<p>Subscribe to our newsletter to keep up with the latest developments in simulation and be reminded of upcoming events and webinars.<br>Please fill out and submit the form below to have us add you to the list!</p>
-<form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"> <label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="rqlcpysr7hrkom1swo3tef1n"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <input id="submit_form" type="submit" value="Send">
-<p> </p>
-</form>
-<p>
-<script>
-let newsletterForm = document.querySelector('#newsletterForm')
-	let newsletterButton = document.querySelector('#newSubSumbitButton')
-	let newSubTitle = document.querySelector('#newSubTitle')
-	let newSubMsg = document.querySelector('#newSubMsg')
-
-	newsletterButton.onclick = () => {
-	}
-	newsletterForm.onsubmit = ()=> {
-		let name = document.querySelector('#nameField').value
-		let email = document.querySelector('#emailField').value
-		let org = document.querySelector('#orgField').value
-		newSubTitle.value = `SLSIG Website Newsletter Request from ${name} (${email})`
-		newSubMsg.value = `${name} from their organization ${org} would like to be emailed SLSIG newsletter updates at their ${email} email address.`
-		alert('Thanks for reaching out! We\'ll get back to you soon!')
-	}
-</script>
-</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The St. Louis Simulation Interest Group</title>
-        <author>
-            <name>St. Louis Simulation Interest Group</name>
-        </author>
-        <link href="https://slsig.github.io/landing-page.html"/>
-        <id>https://slsig.github.io/landing-page.html</id>
-
-        <updated>2022-07-05T09:13:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                     S L S I G Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Visit our Meetings page to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <center>
-<div class="acronym heading-acronym">
-<div class="s">S</div>
-<div class="l">L</div>
-<div class="s2">S</div>
-<div class="i">I</div>
-<div class="g">G</div>
-</div>
-<figure class="post__image image-top"><img loading="lazy"  src="https://slsig.github.io/media/posts/1/favicon.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://slsig.github.io/media/posts/1/responsive/favicon-xs.png 300w ,https://slsig.github.io/media/posts/1/responsive/favicon-sm.png 480w ,https://slsig.github.io/media/posts/1/responsive/favicon-md.png 768w ,https://slsig.github.io/media/posts/1/responsive/favicon-lg.png 1024w ,https://slsig.github.io/media/posts/1/responsive/favicon-xl.png 1360w ,https://slsig.github.io/media/posts/1/responsive/favicon-2xl.png 1600w"  alt="" width="200" height="200"></figure></center>
-<p><span style="color: #000000;"><i>Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting.</i></span></p>
-<h2>Announcements</h2>
-<p>Visit our <a href="https://slsig.github.io/events.html">Meetings page</a> to keep track of upcoming, current, and past meetings and presentations!</p>
-<div>
-<div> </div>
-</div>
-<h3><span style="text-decoration: underline;">New Leadership!</span></h3>
-<div> </div>
-<div>
-<div>It is with the greatest respect and enthusiasm that we congratulate the officers recently voted to the SLSIG leadership team.</div>
-<div> </div>
-<div><strong>President: Beth Moore</strong>, MSN, RN, Manager -- SSMHealth Simulation and Training Center</div>
-<div><strong>Secretary: Melissa Emke</strong>,  DNP, RN,  Simulation Clinical Educator -- SSMHealth Simulation and Training Center</div>
-<div><strong>Vice President: Erin Ziegler, </strong>MSN, RN, CNE: SimCapture Impact Manager, Laerdal Medical </div>
-<div><strong>Treasurer: Beth Hankamer</strong>, MSN, BS, RN: Clinical Simulation Educator<span style="color: #1f3864;">, </span>St. Louis University<span style="color: #1f3864;">, </span>Department of Pediatrics</div>
-<div><strong>IT Sevices: Mark Karnowski, </strong>MA, BSN, RN:  Instructor<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(ret.), </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> Applied Tech, Special School District of Saint Louis County</span></div>
-<div> </div>
-<h3><span style="text-decoration: underline;"><strong>Upcoming Meetings:</strong></span></h3>
-<div> </div>
-<div><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Wednesday, July 13, 2022 via Zoom: <a href="https://slsig.github.io/media/files/Draft SLSIG Meeting Agenda-July 13 2022.pdf">Agenda</a></span></div>
-</div>
-<div>Friday, September 9, 2022</div>
-<div>Friday, November 4, 2022</div>
-<h4>Stay up to Date!</h4>
-<p>Subscribe to our newsletter to keep up with the latest developments in simulation and be reminded of upcoming events and webinars.<br>Please fill out and submit the form below to have us add you to the list!</p>
-<form id="newsletterForm" action="https://postmail.invotes.com/send" method="post"><label>Name:</label><input id="nameField" type="text" placeholder="Full Name"> <label>Email:</label><input id="emailField" type="text" placeholder="email@website.com"> <label>Organization:</label><input id="orgField" type="text" placeholder="Your Org Name"> <input id="newSubTitle" name="subject" type="hidden"> <input id="newSubMsg" name="text" type="hidden"> <input name="access_token" type="hidden" value="rqlcpysr7hrkom1swo3tef1n"> <input name="success_url" type="hidden" value="https://slsig.github.io"> <input name="error_url" type="hidden" value=".?err=1"> <input id="submit_form" type="submit" value="Send"></form>
-<p>
-<script>
-let newsletterForm = document.querySelector('#newsletterForm')
-	let newsletterButton = document.querySelector('#newSubSumbitButton')
-	let newSubTitle = document.querySelector('#newSubTitle')
-	let newSubMsg = document.querySelector('#newSubMsg')
-
-	newsletterButton.onclick = () => {
-	}
-	newsletterForm.onsubmit = ()=> {
-		let name = document.querySelector('#nameField').value
-		let email = document.querySelector('#emailField').value
-		let org = document.querySelector('#orgField').value
-		newSubTitle.value = `SLSIG Website Newsletter Request from ${name} (${email})`
-		newSubMsg.value = `${name} from their organization ${org} would like to be emailed SLSIG newsletter updates at their ${email} email address.`
-		alert('Thanks for reaching out! We\'ll get back to you soon!')
-	}
-</script>
-</p>
+<footer class="wrapper post__footer">
+<div class="post__share"> </div>
+</footer></article>
+</main><footer class="footer">
+<div class="footer__copyright"> </div>
+</footer>
             ]]>
         </content>
     </entry>
