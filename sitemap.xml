@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://slsig.github.io/SLSIG/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://slsig.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://slsig.github.io/SLSIG/</loc>
+<loc>https://slsig.github.io/</loc>
 </url>
 <url>
-<loc>https://slsig.github.io/SLSIG/features.html</loc>
+<loc>https://slsig.github.io/features.html</loc>
 <lastmod>2023-01-07T17:31:03-06:00</lastmod>
 </url>
 <url>
-<loc>https://slsig.github.io/SLSIG/fontbonne.html</loc>
+<loc>https://slsig.github.io/fontbonne.html</loc>
 <lastmod>2023-01-05T00:52:24-06:00</lastmod>
 </url>
 <url>
-<loc>https://slsig.github.io/SLSIG/meetings.html</loc>
+<loc>https://slsig.github.io/meetings.html</loc>
 <lastmod>2023-01-12T11:48:51-06:00</lastmod>
 </url>
 <url>
-<loc>https://slsig.github.io/SLSIG/resources.html</loc>
+<loc>https://slsig.github.io/resources.html</loc>
 <lastmod>2023-01-10T14:23:59-06:00</lastmod>
 </url>
 <url>
-<loc>https://slsig.github.io/SLSIG/saint-louis-simulation-interest-group.html</loc>
+<loc>https://slsig.github.io/saint-louis-simulation-interest-group.html</loc>
 <lastmod>2023-01-12T11:47:34-06:00</lastmod>
 </url>
 </urlset>
