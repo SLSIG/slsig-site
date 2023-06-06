@@ -3,7 +3,7 @@
     <title>slsig</title>
     <link href="https://slsig.github.io/feed.xml" rel="self" />
     <link href="https://slsig.github.io" />
-    <updated>2023-01-12T12:38:22-06:00</updated>
+    <updated>2023-06-06T10:04:11-05:00</updated>
     <author>
         <name>slsig</name>
     </author>
@@ -120,7 +120,7 @@
         <link href="https://slsig.github.io/saint-louis-simulation-interest-group.html"/>
         <id>https://slsig.github.io/saint-louis-simulation-interest-group.html</id>
 
-        <updated>2023-01-12T11:47:34-06:00</updated>
+        <updated>2023-06-06T10:03:47-05:00</updated>
             <summary>
                 <![CDATA[
                     Created to bring together the healthcare simulation community in St. Louis and the surrounding region, the St. Louis Simulation Interest Group is open to all those who provide simulation education in any healthcare setting. Announcements Visit our Meetings page to keep track of upcoming, current,&hellip;
@@ -148,11 +148,15 @@
 <div> </div>
 <h2><span style="text-decoration: underline; color: #195dc9;">Upcoming Meetings:</span></h2>
 <div> </div>
+<div><strong style="font-family: var(--editor-font-family); font-size: inherit;"><span style="color: #e03e2d;">Friday, June 9, 2023</span>, </strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> 1:30 -3:30 Virtual</span></div>
+<div>Topics:  Implementing CAN-Sim</div>
+<div>             Using ChatGPT</div>
+<div> </div>
+<div>Monday, August 7 -- Laerdal Mini-SUN</div>
+<div>Friday, October 27 -- SIUE</div>
+<div> </div>
 </div>
-<span style="color: #e03e2d;"><strong style="color: #e03e2d;">Wednesday, February 15, 2023,</strong> at St. Louis College of Health Careers (also Virtual)</span> <br>(Presenter: Marian Luctkar-Flude, Co-President of the Canadian Alliance of Nursing Educators using Simulation)
-<p><strong>Friday, May 19, 2023, </strong> at Southern Illinois University Edwardsville</p>
-<p><strong>Tuesday, August 22,</strong> location TBA</p>
-<p><strong>Friday, November 17,</strong> at St. Luke's Hospital</p>
+<p> </p>
 <p> </p>
 </article>
 </main></div>
@@ -204,10 +208,10 @@
         <link href="https://slsig.github.io/meetings.html"/>
         <id>https://slsig.github.io/meetings.html</id>
 
-        <updated>2023-01-12T12:38:22-06:00</updated>
+        <updated>2023-06-06T10:04:11-05:00</updated>
             <summary>
                 <![CDATA[
-                    Upcoming Meetings Wednesday, February 15, 2023, at St. Louis College of Health Careers (also Virtual) (Presenter: Marian Luctkar-Flude, Co-President of the Canadian Alliance of Nursing Educators using Simulation) Friday, May 19, 2023, at Southern Illinois University Edwardsville Tuesday, August 22, location TBA Friday, November 17, at&hellip;
+                    Upcoming Meetings Friday, June 9, 2023, 1:30 -3:30 Virtual Topics: Implementing CAN-Sim Using ChatGPT Monday, August 7 -- Laerdal Mini-SUN Friday, October 27 -- SIUE Previous Meetings and Presentations 2022 Nov. 4, 2022 SLSIG Meeting Minutes SimServeRx Medication Dispensing System Sep. 9, 2022: SLSIG Meeting&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -220,10 +224,15 @@
 <article class="post">
 <div class="wrapper post__entry">
 <div> </div>
-<div><span style="color: #e03e2d;"><strong style="color: #e03e2d;">Wednesday, February 15, 2023,</strong> at St. Louis College of Health Careers (also Virtual)</span> <br>(Presenter: Marian Luctkar-Flude, Co-President of the Canadian Alliance of Nursing Educators using Simulation)
-<p><strong>Friday, May 19, 2023, </strong> at Southern Illinois University Edwardsville</p>
-<p><strong>Tuesday, August 22,</strong> location TBA</p>
-<p><strong>Friday, November 17,</strong> at St. Luke's Hospital</p>
+<div>
+<div><strong style="font-family: var(--editor-font-family); font-size: inherit;"><span style="color: #e03e2d;">Friday, June 9, 2023</span>, </strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> 1:30 -3:30 Virtual</span></div>
+<div>
+<div>Topics:  Implementing CAN-Sim</div>
+<div>             Using ChatGPT</div>
+</div>
+<div> </div>
+<div>Monday, August 7 -- Laerdal Mini-SUN</div>
+<div>Friday, October 27 -- SIUE</div>
 </div>
 <h2><span style="text-decoration: underline; color: #195dc9;">Previous Meetings and Presentations</span></h2>
 <p> </p>
